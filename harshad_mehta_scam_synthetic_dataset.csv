@@ -1,0 +1,1001 @@
+transaction_id,date,company_name,stock_symbol,trader_name,transaction_type,quantity,price_per_share,total_value,is_scam_related
+0c85e8a4-882a-437f-a749-63c57fd4608e,2/18/1991,Rose Inc,ulXE,Harshad Mehta,Buy,7370,161.01,1186643.7,TRUE
+0d1191a6-67a9-4fac-b25c-952f33d260dd,5/31/1989,Davis LLC,RkUW,Harshad Mehta,Buy,960,580.53,557308.8,FALSE
+66e5469b-4a08-4871-ab44-4a2d9cf094cf,8/7/1990,Carroll PLC,nTLm,David Lewis,Buy,5490,610.65,3352468.5,TRUE
+76d24d14-5276-4255-86f0-a096132c783c,8/16/1988,Alvarado-Ross,THWT,Harshad Mehta,Buy,5291,429.89,2274547.99,TRUE
+ce10e053-5bf5-4b1f-b1f3-4c337fa34dec,7/19/1989,"Ortiz, Jenkins and Myers",biBd,Harshad Mehta,Sell,5834,739.08,4311792.72,FALSE
+abaa0493-99d5-46ab-9901-d239dfa5c3c6,4/9/1991,Torres-Thomas,QDMW,Harshad Mehta,Buy,6365,935.02,5951402.3,TRUE
+d9bc2900-3aa6-4801-aa19-6cf11e8cda02,10/16/1988,Swanson Group,VvEV,Harshad Mehta,Buy,566,926.31,524291.46,FALSE
+f56f4218-073e-4b5c-884e-a35319400bab,11/15/1988,Horn PLC,EapS,Harshad Mehta,Buy,4526,456.33,2065349.58,TRUE
+e6b20376-6c79-4855-b489-50c02bf1ea93,11/11/1989,Thompson LLC,fhpR,Laura Cole,Buy,5678,122.11,693340.58,FALSE
+e74f827b-58df-4216-a500-a64d4f96b2b4,4/25/1990,Robinson-Cooper,QwCW,Harshad Mehta,Buy,8422,984.99,8295585.78,FALSE
+eec8f639-a380-419c-8252-808d8e8d6cf6,9/28/1988,Johnson PLC,wXBw,Harshad Mehta,Buy,1785,840.51,1500310.35,TRUE
+841d6c85-0722-4bf7-b965-6eb17da159c5,2/22/1991,Wolfe-Murphy,cYpj,Harshad Mehta,Buy,869,133.42,115941.98,FALSE
+f5316d22-7b2a-45da-81c1-46e6aeb537a2,2/3/1990,"Young, Barron and Gordon",uCjR,Harshad Mehta,Sell,7049,921.63,6496569.87,TRUE
+32f731e3-8d5e-4182-9219-0c3709768aeb,11/9/1988,"Gilbert, Little and Simpson",ZxMD,Harshad Mehta,Buy,2533,871.2,2206749.6,FALSE
+71779cff-a68d-4eaf-b1aa-9c34894e6a74,6/21/1990,Scott-Cowan,Fewd,Harshad Mehta,Buy,5411,523.65,2833470.15,TRUE
+eb2685a4-d969-4d54-afa7-bbea1bd4e1f1,7/28/1989,Morgan PLC,kzbL,Harshad Mehta,Sell,5151,595.36,3066699.36,FALSE
+08a016bc-0892-4c86-b746-e78ed35f2907,6/5/1990,Blanchard-Robertson,lYhm,Frederick Silva,Buy,6520,405.01,2640665.2,TRUE
+766c0b6a-a6b0-4ef0-87f5-646c45e6c28e,11/18/1989,Butler PLC,SSUo,Harshad Mehta,Buy,1284,64.21,82445.64,FALSE
+75418c1d-d88e-4f25-bf54-c0e1256afa04,3/11/1990,"Hudson, Morrow and Lewis",hDvf,Rebecca Bishop,Sell,4655,341.85,1591311.75,FALSE
+6e820cf3-b976-4c8f-b313-6ef2389caf5e,3/19/1989,"Malone, Bennett and Cox",dCbx,Alexander Woods,Buy,3485,804.82,2804797.7,TRUE
+e655a8b6-52d3-40e8-b9a1-642b31b9fa1b,7/15/1989,Long Ltd,wXsL,Harshad Mehta,Buy,6496,14.59,94776.64,TRUE
+2e108469-cf12-4fdd-bdb1-7e701965d66e,12/24/1990,Jimenez-Williams,iICb,Harshad Mehta,Buy,8766,340.16,2981842.56,TRUE
+9c674f6a-cfa7-4133-b563-847041c53808,9/27/1989,Jones PLC,KVNX,Alyssa Morales,Buy,9374,404.19,3788877.06,FALSE
+b009b58f-a2dd-455f-b4e0-46966cdad5be,5/6/1990,Hurst-Thomas,wmbZ,Sonya Rodriguez MD,Buy,2658,542.02,1440689.16,FALSE
+c6f3a975-4977-4885-a929-5de0be436bd5,3/2/1991,"Rice, Thomas and Powell",qljA,Susan Schultz,Sell,7949,920.66,7318326.34,TRUE
+a3c19d38-70f6-4d87-97aa-4a1b151d6d79,10/13/1989,Hughes Group,UVcZ,Harshad Mehta,Buy,2147,352.88,757633.36,TRUE
+ff808152-f5ba-435e-96d0-fbd17bd77f5a,7/17/1990,Jones-Elliott,fDpO,Harshad Mehta,Sell,2847,353.48,1006357.56,TRUE
+91cc6ad3-9bf6-4669-8215-3b4d56c54190,12/17/1988,"Rosario, Doyle and Bell",kQHd,Erin Higgins,Buy,9267,740.13,6858784.71,TRUE
+afa28681-49c7-4977-a386-8f81ffa12e11,7/13/1989,"Ward, Walker and Lewis",MVfo,Harshad Mehta,Buy,289,457.7,132275.3,FALSE
+6efe2b74-57b0-46ba-bcca-6dc5c6f9a959,6/18/1991,"Miller, Rogers and Williams",DfVe,Harshad Mehta,Sell,2834,232.36,658508.24,TRUE
+a3e9453c-fd8e-4e35-9e59-76fbb2a3b7e0,4/18/1990,Wood Inc,Xbyk,Jennifer Brown,Buy,3105,457.92,1421841.6,FALSE
+5451c5b4-db3c-47e4-9c33-a400db2ff6da,10/9/1989,"Sullivan, Rangel and Reyes",bcqZ,Harshad Mehta,Buy,4758,149.45,711083.1,FALSE
+dadf639a-d115-43d9-9d44-fecfeec9b49f,12/31/1990,Lewis-Burns,ZDnC,Jennifer Tucker,Sell,1999,184.62,369055.38,TRUE
+74eb4fc5-ab6a-4795-97fc-b9d90c304a61,9/27/1988,"Oneill, Black and Hubbard",npIN,Charlotte Weber,Buy,7834,503.38,3943478.92,TRUE
+ea918d86-227f-4f19-995d-40339a26d8dc,8/7/1989,"Gamble, Harrison and Shaw",dcJe,Maria Guerrero,Buy,1367,424.74,580619.58,TRUE
+a98a4064-ab79-4de8-9e83-704a40840b9b,1/22/1989,"Martinez, Black and Taylor",WQOc,Harshad Mehta,Sell,1628,915.7,1490759.6,TRUE
+29616f68-68ce-485f-ae45-dfa24ffcbcf8,8/13/1990,Johnson PLC,KlVT,Christopher Velasquez,Sell,3656,368.77,1348223.12,FALSE
+2302c0a2-c8b5-497d-a390-52b542103a60,1/28/1990,"Shields, Powers and Perez",vsRE,Harshad Mehta,Sell,3990,584.78,2333272.2,TRUE
+9cd6d306-4c66-4806-8b17-ae42122799f3,2/8/1990,"Blanchard, Smith and Burnett",qLeu,Linda Morrison,Buy,8938,635.94,5684031.72,TRUE
+cd5225b6-581c-41e7-bfd5-a773a57490c6,10/20/1989,White-Wallace,pfSG,Harshad Mehta,Sell,5493,22.96,126119.28,FALSE
+ea12d545-246a-4a2d-96d8-57d74ac9797a,10/2/1988,"Hall, Wood and Hansen",SwyT,Lauren Walker,Buy,8892,666.9,5930074.8,TRUE
+4af7d41f-5cf4-4835-b330-c3d02045448a,3/6/1991,"Martinez, Serrano and Fisher",fzxj,Adam Evans,Buy,8533,186.26,1589356.58,FALSE
+05b4f53e-0dd5-401e-9935-681cd322d60d,5/21/1991,Lynch-Paul,baIk,Harshad Mehta,Sell,7613,961.46,7319594.98,FALSE
+25bce767-1fa6-46c4-9f5f-4c02b5d834e8,11/25/1989,Mcgee PLC,qimD,Harshad Mehta,Sell,2712,157.18,426272.16,FALSE
+36b17841-851b-4175-bb8f-2917b76447e0,8/18/1990,"Houston, Walsh and Miller",yoNa,Harshad Mehta,Buy,7141,420.48,3002647.68,FALSE
+3e8be378-02f6-49d4-8dbe-0605c1892f49,3/24/1991,"Graves, Martin and Morris",EaOR,Harshad Mehta,Buy,9655,94.5,912397.5,FALSE
+959a0d4f-5eb3-4bd5-afab-fbd351b335dc,5/14/1990,Glenn-Holmes,wKgA,Larry Gonzales,Sell,6335,996.91,6315424.85,FALSE
+df618a4b-91ad-4aff-bcb2-89fe02c03ed6,12/26/1989,Jacobson-Mendez,LwpH,Harshad Mehta,Sell,5586,507.17,2833051.62,FALSE
+9f0685f9-baf6-4bae-a45b-4930f6b6679c,1/9/1991,Moore-Berry,BIFF,Harshad Mehta,Sell,7199,599.43,4315296.57,FALSE
+7ada4527-aa99-4d2c-9e3e-8831f22c0642,6/18/1991,Brooks PLC,QBjN,Harshad Mehta,Buy,9770,76.41,746525.7,FALSE
+a9323f6a-0598-476d-b1a8-41abf20f4260,10/6/1988,Bryan-Nichols,NFBD,Stacy Moore,Sell,875,752.46,658402.5,FALSE
+4d6c5d61-5258-4e89-96c0-699f14bde944,2/9/1991,Smith and Sons,TiIe,Jennifer Hickman,Sell,8326,217.81,1813486.06,TRUE
+1f9c0cf6-94a6-4248-a385-d2f005b2014a,6/3/1991,"Stokes, Allen and Boyd",xkWv,Kyle Nielsen Jr.,Buy,3252,899.07,2923775.64,FALSE
+d618a599-656b-4d01-8a76-68adc8310fb3,7/15/1990,Campbell-Reyes,tpEy,Kelly Green,Buy,1685,213.09,359056.65,FALSE
+6acc42c9-1d12-4e8d-97d2-57e39228758d,6/25/1989,Mathis Ltd,KqeL,Harshad Mehta,Sell,4043,198.78,803667.54,TRUE
+2f713dd5-1a73-4d8c-bbe5-e139769d7474,3/20/1991,Hamilton Group,FTvB,Manuel Luna,Buy,7655,46.18,353507.9,FALSE
+0347ac00-98d3-4bf1-8857-6d3331985842,3/30/1991,Garcia-Scott,gPcM,Steven Sanford,Buy,3173,477.35,1514631.55,FALSE
+4de805ec-ee70-48f4-bc9b-810f65a4ae2d,3/1/1990,"Clark, Martin and Chang",iazQ,Harshad Mehta,Buy,1121,569.19,638061.99,FALSE
+56b248f1-397c-43f9-87dd-6c9ca275b776,9/8/1988,"Anderson, Boyd and Rios",jCku,Dr. Mark Richardson,Sell,3943,75.05,295922.15,TRUE
+177c2794-8f89-4213-abdf-b44b2736f2a0,2/18/1990,Hall PLC,HYif,Harshad Mehta,Sell,8089,777.77,6291381.53,TRUE
+57f1b7b3-91aa-4516-bbd1-052986cecd0a,9/6/1989,"Johnson, Williams and Harrison",oqPh,Harshad Mehta,Sell,9792,458.76,4492177.92,TRUE
+0a5e2847-9f9e-40be-ba7b-0da9b6a45b4f,4/23/1990,"Herrera, Bell and Henry",yJSS,Harshad Mehta,Sell,6973,529.15,3689762.95,TRUE
+9cd89998-c0d5-497e-97de-c7d9f2a96ed5,1/11/1989,Chung-Pollard,VjZi,Harshad Mehta,Sell,5775,446.36,2577729,FALSE
+d9267468-a9ae-49af-8d8f-8279bb7fa161,11/27/1990,Clark PLC,AAQz,Gary Padilla,Sell,261,406.76,106164.36,FALSE
+1441e94d-ab43-4971-82ac-3fb9c0d25242,2/11/1991,Underwood and Sons,YAEY,Michael Diaz,Buy,4397,564.04,2480083.88,FALSE
+af150016-9aa9-4126-bbdb-f0e9d0280349,3/10/1991,"Phillips, Tucker and Savage",nEPb,Janet Smith,Buy,1095,163.69,179240.55,TRUE
+2e11bb66-a819-4754-8f11-1e5a08ffbd3f,9/14/1990,Watson-Anderson,etEz,Harshad Mehta,Buy,7729,190.11,1469360.19,TRUE
+8d60a816-497f-477d-ac7a-9da4643fc2f5,10/11/1990,Ortiz LLC,skXd,Kayla Hopkins,Sell,9567,863.17,8257947.39,FALSE
+99b50197-ab94-4f78-b4ee-5cec513d3086,1/30/1991,"Hicks, Jackson and Mitchell",mhxT,Harshad Mehta,Sell,1116,946.65,1056461.4,TRUE
+e625a784-bb8d-4f4a-86d2-0f9828a737a6,3/23/1991,Johnson-Sanchez,Gmmf,Harshad Mehta,Buy,7969,379.58,3024873.02,FALSE
+7bc657b8-d269-48bf-a2f4-bc2c9a3fe4eb,11/9/1989,"Ramirez, Schneider and Davis",QFkI,Harshad Mehta,Sell,6539,278.04,1818103.56,TRUE
+cd05e6df-bbda-4553-b5e7-c84a4ea8c80b,3/27/1990,Brown-Sanchez,XcJj,Virginia Reed,Sell,7992,647.56,5175299.52,FALSE
+a68a4bfb-7845-4b79-908c-617e1d47f16e,8/12/1989,Wolf Ltd,jEXh,Michael Johnson,Sell,6963,414.65,2887207.95,FALSE
+a039112b-ff0f-45c0-ba86-b5595e798512,9/2/1988,Woods Ltd,BycF,Jeremy Vaughn,Sell,8016,35.13,281602.08,FALSE
+43d79907-b988-48e6-a3dd-059c3b916f39,8/7/1989,Gray-Tyler,GYRd,Harshad Mehta,Sell,8629,164.59,1420247.11,FALSE
+7d247806-9fc3-4942-baa8-63f37198c62e,7/24/1989,Wilson-Schroeder,NiVy,Harshad Mehta,Buy,978,718.81,702996.18,FALSE
+bb7dcf8a-a8e9-4dd2-99d8-3cd968e1d888,11/12/1990,Mueller Inc,fIQq,Danielle Harris,Sell,9368,662.33,6204707.44,FALSE
+437f9fda-1e21-4be5-a3a1-8cff75e7d92e,10/13/1988,Kennedy LLC,Qbrs,Harshad Mehta,Sell,4987,36.83,183671.21,TRUE
+b061a329-d8ba-435e-86f7-901e1e526c71,8/7/1989,"Nguyen, Jacobs and Whitaker",flbk,Steven Benjamin,Sell,4959,229.75,1139330.25,FALSE
+9b627217-6dda-4df3-a824-3b2a78157805,5/29/1989,Webb-Bird,Amjg,Katie White,Sell,6431,238.76,1535465.56,TRUE
+fdf8d6b2-ac0f-4e10-b284-26f34f769987,10/10/1990,Green LLC,FdGg,William Wilson,Sell,8671,675.17,5854399.07,TRUE
+63f21941-ace8-4f18-9194-8cf6fdf75554,1/16/1991,"Aguilar, Schneider and Chavez",tfRm,Harshad Mehta,Buy,8784,29.51,259215.84,FALSE
+02bdbdfd-1e84-457d-8cd9-1ad218272a5a,5/4/1989,Cox-Morris,VDtx,Craig Moore,Sell,7308,113.07,826315.56,TRUE
+2e8eca1b-6626-4982-a433-b182addfc1dc,6/5/1989,"Becker, Hood and Edwards",qGVW,Harshad Mehta,Buy,5376,801.92,4311121.92,TRUE
+564c21e0-4498-402c-bb91-97eb04dffc47,4/15/1991,Daniel-Bennett,FfHu,Harshad Mehta,Buy,2162,186.76,403775.12,TRUE
+69fb77fb-3ce1-4590-ae54-ee8b7f56728d,4/13/1990,"Reilly, Vincent and Lynch",IgkZ,Brent Gutierrez,Buy,164,656.22,107620.08,TRUE
+c9f14d6e-027f-4cca-bed5-53d0bd9f119f,11/10/1988,"Morales, Fowler and Garrison",hfoK,Joseph Gillespie,Buy,8106,245.8,1992454.8,TRUE
+5b054fb9-31f6-49d2-9557-72ba8867aecc,6/9/1991,Murphy-Martinez,RicF,Jeffrey Lewis,Sell,2668,108.45,289344.6,TRUE
+35321d11-4c77-4d54-bff5-a21e6edfabef,2/9/1989,Mcgrath Inc,dmoK,Christine West,Buy,5563,250.74,1394866.62,FALSE
+22e3e9c0-6070-4324-8eb8-06ea7c82abc6,1/29/1990,Solomon-Martinez,XsaB,Harshad Mehta,Sell,2127,725.04,1542160.08,TRUE
+686731ee-ad15-4cc6-87c4-54006c45d0c6,2/28/1991,Drake and Sons,IslQ,Harshad Mehta,Buy,2795,857.14,2395706.3,TRUE
+cc981b80-8818-45cb-9906-4686d761e507,5/25/1990,Mendoza-Powell,jRAx,Cynthia Miller,Buy,9787,831.92,8142001.04,TRUE
+de736d53-8302-4767-bb67-17a780eeb805,9/27/1988,"Ford, Salinas and Gilmore",Izpb,Harshad Mehta,Sell,5358,403.21,2160399.18,TRUE
+cf7a5625-c1f1-474b-a35f-714d68445b3b,11/1/1988,Rodriguez-Cline,GHNB,Harshad Mehta,Buy,5718,671.4,3839065.2,TRUE
+05c36f48-93fa-4f6e-bea9-a3ddee1c90dc,2/1/1991,Gray-Reed,SkeS,Harshad Mehta,Sell,6836,212.93,1455589.48,TRUE
+fadf18ed-82d6-4fb0-899b-87cb2d8abd0c,6/18/1990,"Stephens, Roberson and Baldwin",FPOI,Harshad Mehta,Sell,491,300.22,147408.02,FALSE
+b4477e92-f464-4424-89cc-b64908206a5e,10/19/1989,Murphy and Sons,vusA,Harshad Mehta,Sell,5992,897.37,5377041.04,FALSE
+2cd7255e-a5c1-4174-99f0-3ca1ca294a1a,3/23/1989,"Castaneda, Gibson and Perkins",PzWw,Bryan Contreras,Buy,3661,22.87,83727.07,TRUE
+e4e82369-d430-4ca9-a749-487e4ebbc9b3,2/9/1990,Tate-Garcia,xSNa,Harshad Mehta,Sell,6284,94.65,594780.6,FALSE
+9d16ce09-bb54-4f06-a358-a8b6f8f15bd5,9/22/1988,Torres-Williams,ewWi,Sean Martin,Sell,3199,215.81,690376.19,FALSE
+2f8dd50d-e100-4646-8c9b-89ebcf9ada71,9/16/1989,"Lewis, Pitts and Smith",PqNY,Michael Willis,Sell,6378,36.27,231330.06,TRUE
+8fbaf8ac-0e6e-4001-a0c7-197eb49e7464,3/29/1990,"Mcneil, Gillespie and Adams",DNat,Brian Peck,Buy,8492,189.62,1610253.04,TRUE
+c72c2ebb-d832-4254-a08d-da28b680b08e,1/16/1991,Woods LLC,RDoL,Robert Williamson,Buy,3204,587.21,1881420.84,FALSE
+62a9e328-cb37-48d6-bc6e-6d27284f39a6,7/17/1988,"Graves, Parker and Davenport",jlfS,Harshad Mehta,Buy,7315,427.21,3125041.15,TRUE
+a5d63197-93ae-4137-a96f-44e355047c02,3/11/1991,Lewis-Jones,dgUs,Harshad Mehta,Sell,2554,893.74,2282611.96,TRUE
+b6c90221-9ac3-4435-9e7f-2adc359cf721,3/7/1990,"Thomas, Campbell and Garcia",BkuM,Michael Salinas,Buy,9096,819.27,7452079.92,FALSE
+e37ae908-db93-44d1-bc97-ed14e624761d,9/8/1990,"Mann, Jackson and Wilson",bQwC,Brian Orr,Buy,2831,348.4,986320.4,FALSE
+a9ef8688-ae77-4730-9181-423033f90c86,5/20/1991,Briggs Group,AweG,Harshad Mehta,Sell,8254,266.83,2202414.82,TRUE
+1a54afc6-c41b-4332-85e9-ed53b0ba30b3,11/7/1989,Carpenter-Watkins,rgHz,William Hayes,Sell,9862,385.9,3805745.8,FALSE
+a1b086ef-defd-4f3a-95d8-b0dc1b05f8f1,3/10/1990,Campbell-Ruiz,AzRl,Catherine Richardson,Buy,5156,594.39,3064674.84,TRUE
+18e9acf9-73b8-4e29-b3ed-98c00145f170,12/4/1989,"Benton, Fernandez and Anderson",wGeJ,Harshad Mehta,Sell,8210,275.38,2260869.8,TRUE
+e66f6aaa-4097-4203-a69f-9713d3fd7093,3/31/1989,"Leon, Martinez and Hall",Mdpj,Benjamin Jimenez,Buy,3940,627.91,2473965.4,TRUE
+1d657d17-c2c4-40fc-90c5-a9faa7d2407e,5/12/1990,Nicholson-Jenkins,Jchw,Harshad Mehta,Sell,1128,415.32,468480.96,TRUE
+fa6be543-5339-4241-b37c-8df9fec9db96,1/17/1991,Smith-Johnson,RlPm,Andrew Lawson,Buy,7485,556.53,4165627.05,TRUE
+23976371-4b30-4b39-b04f-8a1ca20f4e5b,11/14/1990,"Adams, Gregory and Valentine",QIZv,Harshad Mehta,Sell,602,441.77,265945.54,TRUE
+a5417c8e-1a54-4081-bbf5-d9645072b7b6,9/30/1990,Olsen-Hayes,Zqws,Harshad Mehta,Buy,7010,301.52,2113655.2,FALSE
+5d3b68e1-7ecc-4e8c-8bf3-028f7ab17b8b,2/19/1989,"Young, Wright and Swanson",hVaQ,John Mitchell,Buy,9162,948.97,8694463.14,FALSE
+a931071d-3063-4981-a1b0-2dfc7f8be76e,11/7/1988,"Wells, Hunt and Mills",yEDp,Harshad Mehta,Sell,7038,765.97,5390896.86,FALSE
+647bd503-7159-42af-98e3-b2df654c372c,11/22/1989,Castillo PLC,FMXp,Harshad Mehta,Sell,4588,148.71,682281.48,FALSE
+545a71a2-45a9-4fad-8934-c6dbeab999a2,5/20/1990,Benitez LLC,BOqG,Maria Richardson,Sell,306,869.78,266152.68,TRUE
+64f80d57-91a1-436e-bae8-ca58076fcf00,11/21/1990,Perkins and Sons,HSPG,Harshad Mehta,Sell,5234,492.56,2578059.04,FALSE
+4cace8af-c823-4699-9aea-3b18d3fa956c,7/24/1990,Vasquez Ltd,IsIW,Harshad Mehta,Buy,6077,895.61,5442621.97,FALSE
+d6a59f22-49a4-4593-97cb-dd2422f2064e,6/20/1991,"Keller, Butler and Johnson",jyNk,Michael King,Buy,7821,801.86,6271347.06,FALSE
+c1eccdad-61e7-484a-81b6-3b253424522c,8/4/1988,Grant PLC,PicZ,Lance Day,Buy,7135,430.96,3074899.6,TRUE
+6e6f7e02-d0d5-41fb-bd3f-a5b630fa90de,5/22/1989,Morris-Rodgers,BKyJ,Harshad Mehta,Sell,1584,32.24,51068.16,TRUE
+73162963-6c42-4ff0-a5dc-3fddf5f7fcda,9/7/1990,Brooks-Benjamin,wpiz,Harshad Mehta,Buy,7958,275.99,2196328.42,FALSE
+61121bdd-a02b-4503-a69e-93f7abc5c5af,12/28/1989,Rhodes and Sons,oOxq,Alexander Jackson,Buy,963,546.22,526009.86,TRUE
+9cec942a-8a07-4a80-993d-c40dc4ddedea,7/14/1988,Johnson Ltd,xkkp,Kayla Olson,Buy,2890,637.14,1841334.6,TRUE
+5738b1fe-d02f-4ee4-afdf-d56b246cfd87,11/2/1988,Miller PLC,yXmg,Harshad Mehta,Buy,7508,265.31,1991947.48,TRUE
+17cc5867-7c8e-4340-b45f-fb00a394d133,5/12/1990,"Mcdonald, Martin and Chapman",MNBX,Harshad Mehta,Buy,8855,147.96,1310185.8,FALSE
+7c111644-6c14-4ced-bf4b-d1fc71770c7e,8/26/1988,King PLC,UYyZ,Harshad Mehta,Sell,5216,836.58,4363601.28,FALSE
+d3b82d5b-5a47-4ed7-8f7d-2805f44dad9f,9/16/1988,"Gordon, Parrish and Skinner",zNep,Harshad Mehta,Sell,6119,984.56,6024522.64,FALSE
+137f6534-fea3-4b6d-b735-82d21ad54e70,12/27/1990,Smith-Beltran,GBTY,Harshad Mehta,Sell,1857,530.43,985008.51,FALSE
+f97e737a-8e82-4761-8258-081030523b6d,1/23/1989,"Nelson, Shah and Garza",WdAa,Traci Jones,Sell,7674,179.96,1381013.04,TRUE
+ee5a1f06-4846-4d83-b8f9-140626dd2a51,11/27/1988,Martin and Sons,hCcv,Harshad Mehta,Buy,6474,279.58,1810000.92,TRUE
+42162000-85dd-4099-aa2b-93bdbdfcbe58,12/24/1990,"Glenn, Clayton and Waters",qZnV,Harshad Mehta,Sell,6992,28.21,197244.32,TRUE
+759d9190-f4aa-4e66-88dd-c744e17d0bae,7/28/1990,Brandt and Sons,gXaM,Harshad Mehta,Sell,1778,915.16,1627154.48,TRUE
+531faef5-f606-4f0b-8725-d56f5b9aae48,3/6/1991,"Alvarado, Huber and Obrien",yBhD,Shelly Bell,Sell,3342,126.57,422996.94,FALSE
+471dbfd9-456a-4501-8bf2-735b1aaaafae,8/6/1990,Mathis Inc,Atix,Harshad Mehta,Buy,4736,580.75,2750432,FALSE
+772944f4-be05-4df2-9b3f-55940ff6ff3d,1/1/1990,Wood PLC,fEnB,Kristen Willis,Buy,1159,281.31,326038.29,FALSE
+9aff351c-5d63-49da-85f5-7d090c855ce1,1/7/1989,"Garrison, Hart and Collins",MGUA,Samuel Brown,Buy,6768,558.64,3780875.52,TRUE
+5c834e2a-c69b-4157-9634-e68b07b586e3,1/11/1991,"Peters, Crawford and Davis",KbWE,Harshad Mehta,Buy,3257,654.91,2133041.87,TRUE
+81bb9797-efc2-470d-b041-9e324f1f8c0e,9/12/1990,Hurst-Cannon,PeSW,Harshad Mehta,Buy,6015,831.44,5001111.6,TRUE
+f1687beb-fc63-411a-90ca-408b6b8038e5,1/22/1991,Wright-Stephens,xOID,Mark Jacobson,Buy,9889,214.36,2119806.04,TRUE
+dbc4378f-f4b0-44ab-b731-ac90164b4eae,9/12/1988,Jones LLC,rAQf,Angel Cummings,Sell,2793,20.89,58345.77,FALSE
+e6f7c319-d210-4dda-9d75-cb96c961307f,4/28/1990,"Diaz, Page and Tran",nQVJ,John Miller,Sell,3727,145.52,542353.04,FALSE
+2fc57a95-688d-4397-b0e8-6cf436c76ac8,3/1/1991,"Clarke, Dunlap and Scott",Ujbe,Eric Manning,Sell,9655,901.02,8699348.1,TRUE
+ada351da-61c0-40b7-baa8-2a0eb586993b,1/10/1990,"Christian, Marquez and Glover",PdNi,Ashley Mendoza DVM,Sell,5550,875.15,4857082.5,TRUE
+e1284aec-f3ec-4246-a220-b9f423bc8ef9,5/5/1989,Holland PLC,wEZh,Harshad Mehta,Sell,1763,601.44,1060338.72,FALSE
+0fcdcfaa-9c9e-4f82-8760-6868fe21a173,7/31/1988,Williams-Hicks,DDWH,Harshad Mehta,Sell,9821,604.51,5936892.71,TRUE
+f59c03f2-c20a-4fa4-a9cb-a879b7c37951,10/19/1988,Leblanc Group,FuyP,Harshad Mehta,Sell,5692,668.39,3804475.88,TRUE
+af2a4256-604c-48dc-83b7-710223ed1fa3,10/3/1988,Logan Inc,QuXO,Harshad Mehta,Buy,7492,183.62,1375681.04,FALSE
+8713c74a-033b-426b-8572-3f556b6c0585,10/2/1990,Sandoval and Sons,Oygt,Christian Pittman,Buy,1406,915.27,1286869.62,TRUE
+5ecdc94a-93f8-45ab-a324-60046f9e1846,1/25/1990,"Cook, West and Taylor",voEx,Harshad Mehta,Sell,6876,424.58,2919412.08,TRUE
+468cbbfe-fe86-4fa1-9962-4c0643406299,6/5/1990,Baker-Preston,LKSb,Harshad Mehta,Sell,5964,389.31,2321844.84,TRUE
+1ec2f46d-686a-416b-9d84-a8c8f43cf0db,1/7/1989,Carter-Jordan,LZbm,Harshad Mehta,Buy,9574,523.73,5014191.02,FALSE
+e2661a13-cdd8-4bf1-b153-8d344724c42b,10/24/1988,Cook Group,oRsP,Harshad Mehta,Sell,7626,56.5,430869,TRUE
+263580be-8fca-49a4-92bd-400aac346c55,1/24/1991,Gilbert Group,YBzC,Harshad Mehta,Sell,9001,174.62,1571754.62,FALSE
+c5fe5aa3-9c92-4b77-96ab-3ac00b4006e1,8/25/1990,Smith-Morris,WEnk,Harshad Mehta,Sell,5675,740.65,4203188.75,TRUE
+850fbaf4-eced-441b-b999-495a400a0755,12/3/1989,Bell LLC,WpEQ,Harshad Mehta,Buy,5630,91.97,517791.1,TRUE
+1c2068d5-69fc-4dd6-b608-4ca1cb5ef90c,10/12/1989,"Decker, Macias and Cochran",ovbM,Harshad Mehta,Buy,4513,607.12,2739932.56,FALSE
+e25f3108-369d-4e39-9731-0dffe65c4c1a,8/26/1988,"Carpenter, Mcclure and Schaefer",tysA,Harshad Mehta,Sell,3848,252.9,973159.2,FALSE
+42ea0513-b544-44b5-a5bf-4df7aba16c19,3/31/1990,Brandt LLC,qSsk,Jacob Roberts,Buy,763,395.4,301690.2,FALSE
+2168c1d5-0790-4a1a-bc55-91e0178f3a3b,8/15/1990,Johnson-Khan,kDrG,Harshad Mehta,Buy,2098,295.81,620609.38,TRUE
+0e52eea8-8e40-468e-a913-3f8c4aa7aa88,2/14/1990,Baker-Pacheco,ZmOe,Harshad Mehta,Buy,8094,362.12,2930999.28,TRUE
+a04c04c9-bcf6-46f3-a3f4-2899fb5ad439,11/19/1990,Ross-Lee,YOCp,Michaela Moore,Sell,1595,721.86,1151366.7,FALSE
+3cac541c-e486-41a7-89b5-061f4f4dc235,6/7/1990,Bishop-Blevins,vYbr,Michael Oliver,Buy,3404,304.15,1035326.6,TRUE
+03fceb54-f885-42a3-a6ee-bba3db770292,8/25/1989,"Abbott, Rich and Merritt",GOeJ,Harshad Mehta,Buy,3863,570.74,2204768.62,TRUE
+5d21c250-45ae-43ed-a233-0e6bde1207fb,4/26/1989,"Warner, Brown and Duncan",TAdM,Harshad Mehta,Sell,5332,481.29,2566238.28,FALSE
+44322db2-35d1-4c15-b951-b77a3078ec84,9/16/1989,Jackson and Sons,WTAp,Timothy Griffith,Sell,1953,667.03,1302709.59,TRUE
+b84baf01-0108-434a-ae5e-df9ee444d598,1/11/1989,Lawrence LLC,whTN,Harshad Mehta,Sell,6685,937.46,6266920.1,TRUE
+29f48676-73bf-418d-81df-8d859ef38c3b,5/11/1991,"Lee, Rogers and Allen",IHeH,Jamie Brady,Buy,1391,735.25,1022732.75,FALSE
+dd08b317-4bbb-4d33-85ef-58be112e4674,3/22/1991,Maddox PLC,koAj,Rachel Coffey,Buy,3681,222.79,820089.99,FALSE
+f45c3cfd-d5be-48b1-8691-f63501a213da,9/8/1990,Campbell Ltd,PdmX,Harshad Mehta,Sell,7654,40.87,312818.98,FALSE
+e5a1eea2-28a0-4e9f-8878-37cd9e252883,11/25/1990,"Fernandez, Jones and Kennedy",UOoP,Harshad Mehta,Sell,7380,269.64,1989943.2,TRUE
+58dfa608-0579-4763-bc0e-2c1337bf2d93,5/15/1990,Allen and Sons,lsyj,Harshad Mehta,Buy,1736,599.13,1040089.68,FALSE
+c8b0392c-d608-4167-97e2-61582ea642de,8/24/1989,Keller-Porter,GXEg,Vernon Barry,Buy,3796,60.91,231214.36,FALSE
+5891ca83-776c-424d-b2b6-11e7f32d0da7,12/6/1990,Collins-Johnson,GFEO,Willie Reyes,Sell,798,501.4,400117.2,FALSE
+bc82b3df-38c6-4805-87b3-85d95cf19e0a,8/21/1990,Smith-Farmer,zUQi,Nicole Smith,Buy,4837,600.87,2906408.19,TRUE
+278cc5a4-c43d-434b-9157-2012c54f509b,4/29/1989,Thomas-Gray,yfbr,Ann Pena,Sell,954,340.9,325218.6,FALSE
+5bbce6d9-ac1f-4af5-a445-ed072add2fe3,7/7/1990,"Ellis, Duncan and Anderson",BGrq,Madeline Allen,Buy,8264,773.2,6389724.8,FALSE
+8c7acee7-5c97-4858-8a72-130f09cb1e7a,4/14/1991,Aguilar PLC,uylj,Harshad Mehta,Sell,5955,115.53,687981.15,FALSE
+85a74c67-5780-439f-a786-5350d508b0d3,11/28/1988,"Evans, Cantrell and Acevedo",KtVl,Harshad Mehta,Buy,7492,84.39,632249.88,TRUE
+4429196b-0749-4852-a46d-d958f2a6531d,7/21/1988,"Campbell, Jackson and Crawford",fcBg,Harshad Mehta,Sell,6628,730.91,4844471.48,FALSE
+0853233b-6d87-4684-9c07-6303275ee025,2/26/1989,"Rubio, Phillips and Martinez",vlzy,Rose Brandt,Buy,5349,500.54,2677388.46,TRUE
+6af8ab85-de38-4e52-91b2-6aa819d0011a,10/4/1988,"Lawson, Hutchinson and Mercado",RChd,Dustin Hayes,Sell,5272,691.52,3645693.44,FALSE
+f3d33dd6-0bc4-4d4f-a98c-8b2bbe7a207f,5/14/1989,Deleon-Martinez,Kabd,Harshad Mehta,Buy,1807,440.48,795947.36,TRUE
+8d85c872-0631-489c-8d75-f1a976fb4b16,7/26/1989,Hall and Sons,GYYo,Harshad Mehta,Sell,5891,253.94,1495960.54,TRUE
+a6c63c82-dc5e-4d74-bc4f-acd2ca07e55d,2/16/1990,"Patel, Soto and Lee",xbkM,Harshad Mehta,Sell,5635,820.91,4625827.85,TRUE
+2dee7668-8a68-4287-b362-6a33aaa8f226,1/26/1991,Allen Group,OxKM,Harshad Mehta,Sell,5031,801.42,4031944.02,FALSE
+71e95ec1-a456-4721-aa54-9417d3705b21,8/22/1990,"Meza, Robertson and Evans",XeCs,Rachel Cortez,Sell,3610,697.75,2518877.5,TRUE
+9eee5596-5fd3-42ae-8f10-4f046cc71735,4/21/1989,Atkinson-Pugh,ExPe,Harshad Mehta,Sell,302,279.42,84384.84,FALSE
+d74e2a50-0025-4b5d-9ba4-7a78ba6d5175,6/23/1990,"Wilson, Fox and Nelson",wvNQ,Joan Owens,Buy,4318,594.33,2566316.94,TRUE
+43f8ef24-c171-4553-9e79-c8330c13ef1f,8/1/1990,Tucker Inc,nOpS,Harshad Mehta,Sell,9058,367.36,3327546.88,FALSE
+215eb95e-1690-494f-9f55-885928f2ec50,2/4/1989,Hill LLC,wFeI,Tina Rogers,Buy,4489,100.67,451907.63,FALSE
+262fe5e6-294c-47bc-a6e3-335a48dc6b1a,4/11/1991,Miller-Hall,FCri,Carrie Larsen,Sell,2427,918.14,2228325.78,FALSE
+8fd1deb9-5d2d-4c9c-94c5-a319745b773d,9/9/1989,"Lucas, Mccormick and Jones",TrfN,Harshad Mehta,Buy,8104,145.45,1178726.8,TRUE
+eebddc83-2844-4263-9823-b70e90cd8f80,5/25/1989,"Hartman, Jimenez and Rivera",hbFI,Harshad Mehta,Sell,3031,950.73,2881662.63,TRUE
+4913318b-71a2-4ec2-bc21-ee8c6aa042c6,4/13/1990,"Ortega, Higgins and Patterson",csGM,Alexa Flores,Sell,7877,451.55,3556859.35,TRUE
+07a3eff8-b2c0-4904-a20f-90e1a55943de,3/16/1989,"Thompson, Klein and Blankenship",TBNN,Harshad Mehta,Buy,297,193.28,57404.16,FALSE
+d0dd985e-0f09-47c5-84ad-0eb9ea275d83,6/5/1991,Young and Sons,dAve,Harshad Mehta,Sell,7225,546.48,3948318,FALSE
+e79b1250-4047-4382-b8ee-ee017f2efca2,9/18/1990,Wilson PLC,SlHS,Harshad Mehta,Buy,2030,874.22,1774666.6,FALSE
+e6e45873-64a8-4fda-a5c7-ba530b9bf738,6/16/1991,"Foster, Floyd and Woods",vdCV,Harshad Mehta,Buy,6387,734.9,4693806.3,FALSE
+d85b8314-293b-4123-ba44-9d6fe4f2e352,10/2/1990,"Ali, Potter and Rivera",aAWq,Harshad Mehta,Sell,8900,808.5,7195650,TRUE
+7517433e-ae8c-4c0d-9b57-885b92c36cce,11/8/1990,"Gonzalez, Lutz and Roberts",Uwth,Harshad Mehta,Sell,9439,662.2,6250505.8,TRUE
+ff4bd3d1-abfb-41d0-a567-69e870e08f1b,1/7/1991,Hall-Moon,wnYH,Sheila Price,Buy,4382,695.35,3047023.7,TRUE
+6cff816b-bf95-40af-b98d-884a0219cadf,3/26/1990,"Spencer, Campbell and Andrews",AHGc,Nicholas Stephens,Sell,2611,850.7,2221177.7,TRUE
+23fd1634-547c-4017-9fde-95575e777f08,11/12/1988,"Mckinney, Miller and Lawson",LOug,Rachel Holmes,Sell,759,257.17,195192.03,FALSE
+cb842be9-44fa-496a-bd10-a9320e538b33,5/28/1989,Mcdonald-Brown,nWFh,Harshad Mehta,Sell,2911,494.53,1439576.83,FALSE
+a85cb5bc-15f5-4b75-ae52-07dcc8df1526,12/27/1990,Carter and Sons,WoDM,Raymond Taylor,Buy,7198,229,1648342,FALSE
+62ef5f92-e6fd-47fb-916c-6ce38a084e84,7/12/1988,Gomez-Walker,TahB,Harshad Mehta,Sell,6646,987.79,6564852.34,TRUE
+bee9c17c-4a2c-4392-8411-d08ce40d39f4,9/13/1989,Chandler-Leblanc,kUAk,Harshad Mehta,Buy,9661,944.62,9125973.82,TRUE
+16dfdaf7-d9e7-478c-87a8-853955746ce7,12/12/1988,Williams-Graham,gsrz,Billy Austin,Buy,2086,49.03,102276.58,TRUE
+904cf47e-c2ef-4cfa-b757-69af49ac645f,10/3/1990,Hayes-James,Tgto,Harshad Mehta,Buy,8438,708.52,5978491.76,FALSE
+ad702b9b-35eb-4fa7-87b0-19a0e0867fb8,2/14/1989,Hernandez-Perez,ibwM,Shawn Edwards,Buy,3011,926,2788186,TRUE
+dcf35a77-1810-4c3d-af7a-f335d64435ec,6/18/1990,"Wise, Montgomery and Mason",vSPL,Jackson Hansen,Sell,1834,188.77,346204.18,FALSE
+affa379f-ff8e-44b3-958d-1ffd02569707,12/3/1989,"Gibson, Cooper and Jordan",uGiR,Kyle Ramos,Sell,1943,572.27,1111920.61,FALSE
+7cda2b0d-e726-4235-ae20-4684f7e89882,8/9/1989,Foley LLC,ejTV,Jared Bryant,Buy,8780,916.33,8045377.4,TRUE
+6b562332-18f7-4c3c-9312-7e7626b8ac43,6/14/1989,Sanchez-Jones,ITcz,Nicholas Bentley,Buy,3076,43.61,134144.36,FALSE
+cdacf541-4366-4969-b08d-806c2994e2f0,2/22/1989,"Walker, Williams and Jones",AJoN,Michael Sparks,Buy,2059,700.45,1442226.55,FALSE
+3c7c0916-d3f8-4b56-802e-bf2cadd22bc1,4/1/1991,Riddle Ltd,Aate,Harshad Mehta,Buy,5859,304.38,1783362.42,FALSE
+8387558e-1521-4c14-849a-cbb7488e086d,6/12/1989,"Webb, Strickland and Avery",SZAk,Harshad Mehta,Sell,6794,925.15,6285469.1,TRUE
+d09474be-9983-4f02-b503-bbee580bfd29,1/22/1989,Daniels PLC,YIKB,Shannon Kennedy DVM,Buy,2485,971.35,2413804.75,TRUE
+21c1be1b-c677-4e8d-997e-b9815254673a,8/30/1990,"Dixon, Mitchell and Miller",qdCx,Harshad Mehta,Buy,4836,944.82,4569149.52,TRUE
+cb3508fc-41c5-41ee-9762-3ed417fb3784,5/15/1991,Mcgee-Berg,Sncq,Harshad Mehta,Buy,1902,479.47,911951.94,FALSE
+e4de219f-e908-411c-a440-0302b7d91507,5/19/1989,Brown-Elliott,VzYt,Harshad Mehta,Buy,8255,863.42,7127532.1,TRUE
+9e9d3bf7-eacc-47a0-bd49-8c28d7b80781,12/26/1988,"Stephens, Wilson and Keller",vOve,Jose Beck,Buy,8220,846.1,6954942,TRUE
+5ab56bf5-4413-4a11-b966-01c3f3495e82,11/5/1990,Solomon PLC,VOsn,Harshad Mehta,Sell,6716,325.91,2188811.56,FALSE
+3f03a5b9-95aa-4944-9912-7cdb29032d15,9/21/1988,"Ryan, Roberts and Oneill",Vrcb,Harshad Mehta,Sell,5634,830.63,4679769.42,FALSE
+3f57f9c9-620f-4904-b2e6-06a5093a6277,5/2/1990,"Aguilar, Holmes and Brown",Eazm,Jerry Hayes,Sell,4161,46.64,194069.04,FALSE
+0444a676-43fe-4c25-adf4-11a872b2e801,7/4/1991,Valencia-Holden,faGn,Harshad Mehta,Sell,362,600.31,217312.22,FALSE
+13c3e9d4-55ed-459f-9c00-bd278b226df7,10/29/1990,Smith LLC,HuXe,Harshad Mehta,Sell,6387,237.71,1518253.77,TRUE
+dfb0a970-6044-4dc4-a805-c7c854810aa7,11/17/1988,Doyle-Cox,VyqP,Harshad Mehta,Buy,8915,129.36,1153244.4,TRUE
+0bbf5f31-6123-40c3-9303-6f53dcd85914,8/10/1990,Turner-Turner,hlqf,Harshad Mehta,Sell,9308,86.18,802163.44,TRUE
+fdeb054c-4f08-41f4-b9b5-9f43c0926036,9/14/1989,Lucas-King,zBSl,Harshad Mehta,Buy,2149,699.33,1502860.17,FALSE
+fd1a0f23-5455-4704-a02d-0174806e1136,6/29/1990,Griffin-Collins,EpKF,Harshad Mehta,Sell,5523,346.48,1913609.04,FALSE
+653b7407-15ec-4993-8751-9890d6ccfd14,6/21/1990,Smith Group,sStS,Harshad Mehta,Sell,4648,727.52,3381512.96,FALSE
+030ebe22-7177-44bc-8eac-f5818c5e42c1,4/10/1990,"Martin, Sims and Mccall",WCBs,Kara Green,Sell,3208,74.7,239637.6,FALSE
+5e3d6f8b-15d5-47ec-a947-6c0b51ba2546,9/25/1990,"Sweeney, Vazquez and Holmes",hnYd,Harshad Mehta,Sell,7258,322.14,2338092.12,FALSE
+d07ff913-0af3-4627-9af4-c54eaf44aca7,11/11/1989,Williamson-Smith,kVsf,Harshad Mehta,Buy,7500,544.1,4080750,TRUE
+bb6ba584-7a53-400c-9e5d-ae1271de7973,1/7/1990,Austin-Ware,oVxF,Harshad Mehta,Sell,3270,792.82,2592521.4,FALSE
+56a9b1b8-c715-4768-9542-f8a8dbcf90b7,2/3/1989,"Olson, Smith and Holland",jGBq,Harshad Mehta,Buy,9974,325.56,3247135.44,FALSE
+70cec0f8-e356-42e7-a937-75b2d644216e,6/23/1991,"Palmer, Navarro and Andersen",mvuY,Amy Smith,Sell,2355,629.63,1482778.65,TRUE
+edaf74a6-9bd8-4221-9f71-a63c4341aee6,2/6/1990,"Wright, Flores and Hall",ccrT,Zachary Moses,Sell,1254,887.12,1112448.48,FALSE
+da0057e6-201e-4b33-872f-daf638c572f4,5/22/1991,"Montoya, Mora and Sutton",bzFr,Alexis Bryant,Sell,4599,619.7,2850000.3,TRUE
+62d57012-6894-46e3-9248-ef6d151ad525,7/28/1988,Castillo and Sons,tPnY,Harshad Mehta,Buy,6395,240.63,1538828.85,FALSE
+5f0250db-7d32-4a64-abaa-81f6d323e9d2,2/2/1990,Robbins-Brown,SZFO,Taylor Rodriguez,Buy,6297,34.16,215105.52,TRUE
+7d5f52cc-8ed6-4cdd-997b-b2ccab2ea5ea,7/5/1989,"Bailey, Moreno and Gray",hYTu,Harshad Mehta,Sell,9988,871.4,8703543.2,TRUE
+1280c612-2b24-4443-ac9b-d46f8b6cb724,6/23/1990,Mclean and Sons,iPOO,Joseph Henderson,Sell,1748,31.06,54292.88,FALSE
+de6bfaec-f998-4a91-8cb0-8623a97a53cb,11/21/1988,Mclean-Lara,VsWD,Russell Johnson,Buy,5639,875.95,4939482.05,TRUE
+b9de8aac-0d87-47a7-9b8d-d76dca5206c2,3/8/1990,Jackson-Taylor,tdiB,Harshad Mehta,Buy,9737,533.65,5196150.05,FALSE
+250c848c-326a-4f77-8bef-459bae193f9c,1/18/1989,"Cox, Carroll and Morgan",fmDy,Marcus Hopkins,Sell,4299,939.68,4039684.32,FALSE
+9a61d4fb-316b-4c7f-9ef6-2ec500feb909,11/22/1990,Lewis-Russo,BHah,Carla Spears,Sell,8545,800.8,6842836,FALSE
+213f6bb2-34ff-4ace-8ede-2d62321a9a80,5/21/1990,Richardson-Payne,ziHN,Amy Morris,Buy,2657,997.95,2651553.15,FALSE
+5f77704e-3908-45ce-9bd8-365fd4ae75fb,3/6/1990,Farmer PLC,ZeJI,Harshad Mehta,Sell,5692,357.2,2033182.4,FALSE
+d5dcbbbd-88b4-410d-b9fb-4db4ad3a7fb3,1/26/1990,Davis-Mccarthy,AoIj,Harshad Mehta,Buy,198,769.52,152364.96,FALSE
+48aa2941-df26-4f2e-b9bc-88116e56aa98,10/24/1988,Thompson-Reed,IVnw,Alyssa Lopez,Sell,2300,407.91,938193,FALSE
+3e9a3e91-1065-4018-aee2-92f2aa17ec70,12/27/1988,Mccormick-Palmer,ROVP,Harshad Mehta,Sell,3061,485.08,1484829.88,TRUE
+c88ec62e-1294-49e2-afd2-de4b865fdd21,11/2/1990,Riley-Salinas,BTvp,Harshad Mehta,Buy,5073,631.23,3199129.79,FALSE
+fa32a083-7af2-4237-8ce5-7c04a1f27a09,7/5/1990,Wilson and Sons,sKNx,Harshad Mehta,Buy,4533,874.94,3966103.02,FALSE
+a6e1d82c-bcdd-4b8d-aaee-3371adcaee99,12/6/1988,Smith-Brown,thEo,Steven Potter,Sell,2969,984.24,2922208.56,TRUE
+a1d5f99c-471d-4cb5-9ffb-0d1bd02db9ad,2/12/1990,"Cunningham, Good and Mcgrath",udcS,Harshad Mehta,Buy,1056,770.59,813743.04,FALSE
+3a768db1-7433-4c64-b838-5c3318177ea5,4/12/1990,"Lindsey, Horton and Lawson",Shly,Kirk Huffman,Sell,8452,423.59,3580182.68,FALSE
+2e12bd56-3ec6-4f5c-b735-4d9101511955,9/15/1990,"Davis, Jones and Rivera",EOZL,Harshad Mehta,Buy,5799,427.14,2476984.86,TRUE
+a770872a-2636-4266-b0d4-c527459f90da,11/12/1990,Bryant-Allen,foyp,Harshad Mehta,Buy,7044,740.21,5214039.24,FALSE
+e15d8f96-fc81-44e0-a18f-c5357aa4a28a,1/30/1991,Mcdaniel-Cameron,GGZz,Joshua Garner,Buy,4593,246.39,1131669.27,FALSE
+91702625-a36a-42d0-b668-13312fd0e161,1/19/1991,Taylor-Payne,vkiN,Ashley Yu,Buy,9592,119.37,1144997.04,FALSE
+35918c9f-345c-4fe6-9d47-2186b8b48ccf,11/12/1988,Walsh-Smith,MWXz,Harshad Mehta,Sell,5011,361.08,1809371.88,FALSE
+5cb640cc-7300-4ea1-ad4f-132c0f397c63,12/6/1990,Washington PLC,vqcA,Tammy Garcia,Sell,4087,294.37,1203090.19,TRUE
+66903db5-517c-42b3-bd0a-94303fe86f73,6/1/1990,Griffin Inc,xWcp,Jennifer Ramsey,Buy,9819,303.35,2978593.65,FALSE
+236f7617-6f20-4b6f-b4d7-ad871f81b95d,2/5/1990,Miller-Carroll,UBzo,Harshad Mehta,Sell,6115,241.27,1475366.05,FALSE
+ebc23497-c6b5-4e05-8b43-3b4eb2c14639,5/28/1990,"Davis, Bradshaw and Taylor",Fenh,Johnathan Ross,Sell,1318,51.67,68101.06,FALSE
+b1106690-a202-4695-950b-62247e5f4b85,12/27/1988,Howard Inc,uBQZ,Harshad Mehta,Sell,4596,27.7,127309.2,FALSE
+6c8641ef-5c74-4994-bca4-2fbcc5f6a862,3/26/1990,Baldwin-Meyer,Anha,Harshad Mehta,Sell,4835,987.85,4776254.75,FALSE
+3cc53a5a-30d7-4e09-97a4-0d29360f5e75,10/11/1988,"Brown, Jackson and Hartman",iLKa,Lori Lara,Sell,4655,433.5,2017942.5,TRUE
+f3f527c5-dfd6-4148-87cf-f818485ad226,10/30/1988,Wagner-Dunn,ESNA,Harshad Mehta,Sell,9246,390.48,3610378.08,TRUE
+a8fb1ec2-24c8-4d6c-a5f7-1ace53b9da50,12/21/1988,Jenkins-Baldwin,mMcd,Harshad Mehta,Buy,8150,682.85,5565227.5,TRUE
+2a96fe5b-f629-4741-a96d-23fbd0360832,4/12/1989,"Barnes, Diaz and Ali",zhjS,Harshad Mehta,Sell,3546,226.07,801644.22,TRUE
+3212a17d-8b00-4763-a708-7aaaa62fdfb8,12/9/1989,Kim Group,xQWu,Ryan Nelson,Buy,1145,950.46,1088276.7,FALSE
+fb2cee5d-7cba-4197-a49c-cc9ceccd3570,12/20/1989,Schultz-Fleming,MARs,Kevin Hampton,Sell,6993,788.48,5513840.64,TRUE
+a04e6633-54d5-409b-8a6c-8eec6af0b917,1/1/1991,Rodriguez Ltd,SFlC,Harshad Mehta,Buy,1793,98.52,176646.36,FALSE
+01449a8f-71d0-405f-b37c-bf30c3fc2826,5/5/1991,Patel Ltd,ZcyM,Amanda Watkins,Sell,3536,423.4,1497142.4,FALSE
+eec1f2f1-27f3-44d8-87bf-8c756536a73e,3/3/1990,"Wright, Norman and Garcia",XLpn,Harshad Mehta,Sell,8854,880.33,7794441.82,TRUE
+ff7a02c0-efdf-4a6f-bb65-578a44a76bf2,2/13/1989,Benjamin-Perez,KaJD,Lauren Hinton,Sell,5995,945.28,5666953.6,FALSE
+5886381f-3f05-4c81-8978-a8b50f99337b,7/18/1988,Randolph Inc,RJQV,Terry Carroll,Buy,3454,472.73,1632809.42,FALSE
+e059f8fe-3c5d-4bed-b70f-3f1ce2d894e2,1/24/1990,West-Weber,HwtQ,Jordan Morris,Sell,325,617.28,200616,TRUE
+c8852fca-d6ca-4247-9eaa-d0902bb0e667,7/17/1990,"Cobb, Richards and Sandoval",YhNZ,Harshad Mehta,Buy,4993,175.36,875572.48,FALSE
+9a73dc81-a628-4a3e-a82e-ab7279a32099,12/11/1989,"Ramirez, Bolton and Anderson",FlsI,Harshad Mehta,Buy,7122,991.26,7059753.72,TRUE
+3f3c77b4-941b-455e-ba35-8d4b86ed21d3,3/9/1989,"Reed, Marsh and Evans",UYmr,Cynthia Stephens,Sell,9251,239.35,2214226.85,FALSE
+aec7ade0-b91b-4a41-a1b5-379832c509f2,9/28/1990,"Sanchez, Ellis and Sanders",QljQ,Scott Rose,Sell,5700,943.3,5376810,TRUE
+6d156a04-b42e-469d-9169-fad15f71ed53,9/13/1989,Herman-Martinez,HAZt,Harshad Mehta,Sell,8096,653.15,5287902.4,FALSE
+2b6b2b06-4749-42e6-a9bf-212e85570120,4/6/1989,Black and Sons,ghzx,Harshad Mehta,Buy,9107,611.66,5570387.62,FALSE
+25dab406-630c-4654-9fb9-4d59832fb7cd,1/10/1990,Perez-Hall,UHAz,Allison Stephens,Buy,7783,517.56,4028169.48,TRUE
+d4379410-bac5-4728-9c98-ef427315831b,1/19/1989,Hughes-Mccormick,AEKE,Harshad Mehta,Sell,4742,238.36,1130303.12,FALSE
+3a5ca496-1778-4cf9-9a26-2885a33352bc,1/28/1989,Riley Inc,hULS,Katherine Pace,Sell,7779,184.76,1437248.04,FALSE
+072c595d-af69-4788-b33c-9ee64e8b55dc,2/10/1989,"Gonzalez, Evans and Martin",PDeT,Harshad Mehta,Sell,8308,228.28,1896550.24,FALSE
+9265c39a-4477-4849-930f-b2d09619654f,5/7/1991,"Harris, Casey and Bryant",DjtO,Angela Herrera,Buy,7439,194.57,1447406.23,FALSE
+fb55d27c-dd67-454b-8fb2-b14c023e8109,9/11/1990,Garza-Richardson,ULON,Mark Ramos,Buy,9535,781.79,7454367.65,TRUE
+550ae4b6-27f0-4a52-b45b-e0852795c0c5,7/7/1990,Bell-Hayes,JgIk,Harshad Mehta,Sell,2305,356.62,822009.1,FALSE
+eafb6c16-04d1-472e-98bd-db9c8871a6b6,8/11/1988,Davis Inc,MtgZ,Harshad Mehta,Sell,1169,67.26,78626.94,TRUE
+8a24f69f-0697-461e-a87c-968201cc3c3d,9/5/1990,Ward PLC,vwMI,Harshad Mehta,Buy,3544,969.41,3435589.04,TRUE
+aaf53522-cf6f-43a6-93c6-bba37acf1b2b,3/19/1990,Larson-Jones,BKnK,Harshad Mehta,Sell,1160,884.95,1026542,TRUE
+890cb1f4-eab1-46f0-b4f5-80215955dc4d,10/11/1989,Sloan LLC,iykl,Harshad Mehta,Sell,2427,928.47,2253396.69,FALSE
+7b95d74f-8235-464f-8891-d2af36506093,1/29/1991,"Herman, Peters and Collier",fxgc,Michael Owen,Buy,3520,994.96,3502259.2,TRUE
+10a59722-3d35-474c-b60f-60f58d46aa7d,9/23/1989,"Bryant, Hamilton and Stanley",ZGNy,Harshad Mehta,Buy,401,182.16,73046.16,TRUE
+98bc28e3-e6df-4c20-9547-0b804e92597c,5/20/1989,Mills-Mercer,WIOH,Sheri Sanchez,Sell,706,402.28,284009.68,FALSE
+5b3f287c-001d-4232-81c9-37dfe1ad44a1,5/13/1990,Mcfarland Ltd,NbBa,Harshad Mehta,Sell,3270,760.66,2487358.2,FALSE
+24e0470d-42ec-45ae-815f-907ff6a70d10,12/15/1990,Caldwell-Williams,NiUt,Harshad Mehta,Buy,799,699.06,558548.94,FALSE
+0699f100-d5d3-4f35-ab76-0122615b953b,6/19/1989,Cox-Jones,UTfe,Christina Boyd,Buy,5188,162.36,842323.68,TRUE
+90b2bb4e-ac19-4a59-84aa-e4e5b4c0f427,4/14/1989,Smith Ltd,bSMW,Daniel Brooks,Buy,9431,817.67,7711445.77,TRUE
+c6b76297-0346-4342-9024-bbf888b81c54,10/7/1990,Lee-Scott,CMBd,Harshad Mehta,Buy,290,232.2,67338,TRUE
+1d7f949a-1b14-48b1-902c-93361887fc55,12/21/1989,"Jones, Rodriguez and Fuentes",aLAx,Andre Carson,Buy,1080,231.58,250106.4,FALSE
+8650e735-ac17-440a-ad1b-8de5436516ea,8/12/1989,Matthews-Glass,XRGI,Harshad Mehta,Sell,3075,541.6,1665420,TRUE
+fba3d645-ffc6-4cc3-9f34-4781f5d31018,8/22/1989,Berry PLC,stji,Harshad Mehta,Buy,6202,597.01,3702656.02,TRUE
+b2187b12-d755-4145-9bfa-78161fea94cc,5/6/1990,Brooks PLC,VUDj,Harshad Mehta,Buy,1284,584.29,750228.36,FALSE
+bd8b4c3a-0451-404b-96e8-5f6d62033ba1,9/26/1989,Vasquez-Frank,wSNb,Timothy Parker,Sell,3427,100.57,344653.39,FALSE
+d84a5d36-288a-43ca-848b-03747f36f5e8,5/25/1990,Bowers-Cardenas,xDrb,Brenda Liu,Buy,3494,878.69,3070142.86,FALSE
+89c910ec-3221-4c13-a771-74604620a89b,10/4/1989,Rich-Cunningham,rlqf,Harshad Mehta,Sell,8419,272.94,2297881.86,FALSE
+a466ba55-9997-4051-9b03-0b09591f67a7,1/12/1990,Vasquez LLC,QRpT,Harshad Mehta,Buy,1916,138.22,264829.52,TRUE
+68b8f77f-dc99-410d-9bbc-eff88e1d9b80,11/7/1989,"Rasmussen, Brown and Oconnell",dbNg,Harshad Mehta,Buy,5954,889.86,5298226.44,FALSE
+e8e1d732-0584-4c2d-b414-9fae449b46d7,8/24/1988,Ho-Nunez,QQrr,Harshad Mehta,Buy,6809,956.09,6510016.81,TRUE
+624335c0-88bf-4b7d-bf19-0403e2b825c7,3/4/1989,"Martin, Wilson and Walters",NWAt,Scott Steele,Buy,669,863.51,577688.19,FALSE
+54ba545c-0f44-444b-9a19-c885ec1978e9,11/8/1988,"Mitchell, Green and Greene",WOQS,Harshad Mehta,Sell,5542,811.42,4496889.64,TRUE
+eaff68eb-2dd4-4419-934a-c819eb2ca425,1/29/1989,Alexander LLC,YPsU,Harshad Mehta,Buy,1995,658.69,1314086.55,FALSE
+0e4928f2-ea35-45fa-a7dd-2e8cf8b7aa49,3/16/1991,Mayo Group,iQxl,Carrie Brooks,Sell,2833,555.35,1573306.55,FALSE
+90d832bb-e050-4c2a-99d8-f4e7eb84bf89,8/18/1990,Gibson-Williamson,mIQh,Timothy Young,Sell,3963,96.12,380923.56,TRUE
+b93304f2-8e49-43ca-b8f0-21548485f817,10/16/1988,"Bryant, Dean and Smith",MAzx,Harshad Mehta,Buy,7555,414.37,3130565.35,TRUE
+160cb69c-1870-4b5c-90b2-3ff3e879e59c,2/22/1990,"Brady, Strong and Fuller",mjHh,Adam Morgan,Sell,4114,378.96,1559041.44,TRUE
+76edf9b9-73e4-40bd-a978-92115307d8fd,11/11/1990,Smith Group,pHZx,Harshad Mehta,Sell,1786,267.16,477147.76,FALSE
+15318e1f-a346-4a70-bf0a-7ab83657c57b,5/19/1991,Young-Mosley,OMZs,Harshad Mehta,Sell,3109,726.19,2257724.71,FALSE
+eb5de41f-0f89-4700-9e61-be8a2c6ba0ef,5/14/1991,"Garcia, Newman and Moore",aJlA,Joel Ramos,Buy,7906,500.92,3960273.52,FALSE
+a7c6b0ba-485f-42a3-b96e-b2398e2f66c3,9/22/1989,Escobar-Moore,GvAe,Harshad Mehta,Buy,254,90.24,22920.96,FALSE
+0c260c01-0838-49ff-bccb-52bd3c96d49e,10/6/1988,Diaz LLC,EkJM,David Rogers,Sell,1509,227.98,344021.82,TRUE
+0b29b7ee-7b7f-48f9-93ae-2fb76df183a3,7/13/1988,Duncan-Chapman,JxEI,Harshad Mehta,Sell,884,686.43,606804.12,FALSE
+32283a5d-1487-4729-8d78-b2c632963716,11/4/1988,Curtis-Buck,nYWP,Harshad Mehta,Buy,8196,85.37,699692.52,FALSE
+f639212e-bbb7-44f7-bc2f-928ad07afc95,12/8/1990,Mcmillan-Nelson,MASi,Justin Carpenter,Sell,7660,852.69,6531605.4,FALSE
+3a9f2308-8f87-46ec-a7d6-be7c8354c7ac,7/31/1988,"Bond, Ellis and Flores",ryaH,Mr. Darrell Cisneros Jr.,Sell,7443,500.2,3722988.6,TRUE
+597c080e-90ed-40a7-8331-3f9c332631fe,3/18/1991,Brown Group,pYzF,Daniel Sellers,Sell,7306,485.78,3549108.68,FALSE
+34c2e999-44db-49a6-bdca-58efd096639b,9/19/1989,"Evans, Wilson and Thomas",fQLP,Harshad Mehta,Sell,5696,596.48,3397550.08,FALSE
+db59913d-85cf-4442-afca-1f5fd8e14343,4/17/1990,Romero Inc,tUKA,Harshad Mehta,Sell,5901,826.43,4876763.43,FALSE
+82a79f4a-8082-4469-9f00-44a3e0bee3fd,3/9/1991,Rivera-White,oQHC,Harshad Mehta,Sell,2906,354.33,1029682.98,TRUE
+544fe6f7-d086-4e42-b63e-772108028e89,3/27/1990,Jones Inc,SXBO,Harshad Mehta,Buy,637,681.24,433949.88,FALSE
+c3655f06-15ef-48cb-b24f-a77fabe93081,10/5/1990,"Mahoney, Carson and Ferguson",DqAZ,Susan Cohen,Buy,6086,570.07,3469446.02,TRUE
+ceba46f8-f021-40aa-9c7b-b52ae9153105,1/29/1990,Hill-Hernandez,nYYI,Ashley Roberts,Buy,1941,274.36,532532.76,TRUE
+93ba69c0-7acc-42f7-bc7a-8c12e716fc55,11/20/1988,Williams-Newman,MBqo,Zachary Taylor,Sell,8816,879.84,7756669.44,TRUE
+af42442d-fd92-481f-8432-c41a6ce36e02,5/11/1990,Knox Inc,AJTI,Harshad Mehta,Buy,7071,799.45,5652910.95,FALSE
+f99143e9-3bd8-4073-ad87-6d7c4052a569,9/10/1988,Bates-Williams,eKHN,Olivia Foster,Sell,5725,661.87,3789205.75,TRUE
+919d172c-a8e3-4b2f-8ea4-3b5bdfc3ff1b,2/27/1991,"Le, Walker and Gray",wBBQ,Crystal Mercado,Sell,3050,852.08,2598844,TRUE
+dfc87239-e426-47d4-91cb-2aa556ccf1b3,6/9/1989,"Stewart, Jones and Thomas",MHQA,Dana Alvarez,Buy,8092,868.62,7028873.04,TRUE
+1a4a2633-c8ff-416b-bee5-d269a09edc06,4/30/1990,"Hensley, Wilson and Thomas",DzrM,Kristin Hayes,Buy,4880,711.28,3471046.4,TRUE
+d2c9ce5d-7c20-46d1-8940-c035aabe8944,12/7/1988,Johnson and Sons,IPAy,Harshad Mehta,Sell,2468,838.64,2069763.52,TRUE
+06fb0f5c-78e8-4b4d-a895-b435b23a623a,3/13/1990,"Fitzgerald, Mcmillan and Hernandez",XMwL,Harshad Mehta,Buy,6755,700.5,4731877.5,FALSE
+f439e4de-1c78-4527-8b2f-2bfb11e9980e,2/24/1989,"Hinton, Brown and Wise",pyvq,John Taylor,Buy,8273,683.34,5653271.82,FALSE
+d1a25510-5902-4bd5-9e23-be65b9f7316d,2/25/1989,Palmer-White,GbKB,Harshad Mehta,Sell,4595,622.43,2860065.85,FALSE
+d58cbc4e-ee35-4703-9ce1-19b62d34f566,10/21/1990,Parsons-Christensen,WXfs,Kelsey Taylor,Sell,9263,755.19,6995324.97,TRUE
+45ba66c1-73f2-4b49-9cad-735f7b29daa1,5/14/1990,Burke and Sons,Krgr,Harshad Mehta,Buy,6102,167.02,1019156.04,FALSE
+f06cdce8-ad30-46d9-b7bb-5d7e049d17dd,5/6/1991,Dennis-Thornton,vRlp,Harshad Mehta,Sell,6714,882.06,5922150.84,TRUE
+e2586728-021e-4cca-abf7-ad0684603451,10/1/1989,"Dougherty, Marquez and Jones",iWMF,Natasha Torres,Buy,9458,873.13,8258063.54,TRUE
+23d7b65a-69ef-4581-89a0-c824a05afb1c,10/27/1988,"Greene, Powers and Weiss",Kprq,Patricia Noble,Buy,6019,38.95,234440.05,FALSE
+b7eef943-635e-4428-8e8f-f309e582b803,2/16/1991,Alvarez and Sons,cFTi,Dr. Kelly Garrison,Sell,953,827.56,788664.68,FALSE
+854e892e-5ad0-4ce3-9395-4d393276df98,10/9/1988,"Nguyen, Wright and Duran",jzbB,Mark Henry,Sell,4246,137.58,584164.68,TRUE
+97b8be5a-1a7d-461c-9a03-6a9625971542,10/25/1988,Wolfe PLC,SXBL,Harshad Mehta,Buy,3869,341.77,1322308.13,TRUE
+1021c9c8-f464-4bff-aee0-9c43992e2e87,6/28/1989,"Edwards, Carter and Bennett",CoCk,Angel Evans,Sell,674,746.07,502851.18,FALSE
+764de0b9-07ab-40fc-a0bc-95d749b64490,10/6/1990,Reese and Sons,Vllz,Harshad Mehta,Buy,1248,169.15,211099.2,FALSE
+3ca8758f-5cb7-40d5-b916-fa7a57badb7d,7/27/1989,"Swanson, Nelson and Wheeler",mosm,Eric Mcdowell,Sell,6393,819.79,5240917.47,FALSE
+d4080edf-f1fd-4bcc-9c3b-324b42d5356e,1/19/1989,"White, Guerrero and Patel",mXup,Harshad Mehta,Sell,6557,833.81,5467292.17,TRUE
+25dbaab7-414d-44e5-9d5c-f02ac7ad0131,1/2/1991,Kelley Ltd,bPtp,Gregory Allen,Buy,7609,512.39,3898775.51,TRUE
+f7cc4293-f41f-4d97-bad3-a4a2c3bbc292,1/31/1991,Roberts-Williamson,XdDk,Harshad Mehta,Sell,4877,16.32,79592.64,TRUE
+3aae3e82-bea2-43cd-aad5-a43247bcc07b,4/22/1990,Mills LLC,mIbz,Harshad Mehta,Buy,3954,294.17,1163148.18,FALSE
+e32c722b-445f-46c0-ad6d-f77d22fbfde9,6/20/1991,"Poole, Arias and Nelson",ejpm,Pamela Williams,Sell,2591,620.76,1608389.16,TRUE
+6cd5b57d-dbed-4abc-8439-ab5bec70a33f,5/29/1989,"Kirk, Woods and Landry",nJhL,Thomas Winters,Buy,3224,981.37,3163936.88,TRUE
+86f42dd5-423c-4437-8b53-9f185a9d1cfa,3/17/1990,Cooper-Wallace,nHUB,Harshad Mehta,Buy,5791,635.5,3680180.5,TRUE
+c971038c-cf7b-43bf-b397-315b0359d2ce,10/15/1989,"Johnson, Richards and Smith",KQhY,Michael Horton,Sell,3151,267.21,841978.71,FALSE
+a0759ab8-bbfb-4307-a48e-20357b17a65c,1/20/1990,Golden Ltd,EzzC,Jane Reyes,Buy,104,637.67,66317.68,FALSE
+7d55caf6-5889-418f-9c7f-178d6d166720,8/8/1990,Baldwin-Richards,kEYX,Harshad Mehta,Sell,5322,544.59,2898307.98,TRUE
+26ce69e7-12c8-4c6b-b235-87286a36e8a3,3/9/1991,Bell-Reed,HNSE,Elizabeth Austin,Buy,5415,782.05,4234800.75,FALSE
+d788abfd-a496-4730-b9f8-7ac89f58e092,7/7/1988,Hardin Group,truW,Mr. Scott Johnson,Buy,4969,115.91,575956.79,TRUE
+72579ca9-237c-43eb-81bc-e1c4415036be,7/29/1990,Hopkins-Rogers,LBXO,Lisa Scott,Buy,976,763.42,745097.92,FALSE
+43d5f644-4c75-4ac0-972b-7de0cad62eee,1/29/1991,"Berry, Lambert and Smith",wFio,Marco Huang,Sell,9283,545.85,5067125.55,FALSE
+0f82cdfa-952a-47cd-8ee9-27a88bee23de,12/15/1990,"Day, Moore and Dillon",oCow,Kimberly Anderson,Sell,7127,963.36,6865866.72,FALSE
+227d1cc3-4573-4250-87fc-46d5a270b8d1,1/29/1989,"Tapia, Stone and Wheeler",vgFC,Emily Figueroa,Buy,4242,348.45,1478124.9,FALSE
+39967eb3-4503-4b3d-8269-928bc8bb2cdc,6/27/1989,"Leblanc, Ford and Patton",PZBd,Harshad Mehta,Sell,7066,636.3,4496095.8,FALSE
+83aa89bd-6f0f-422f-91df-9f49e0879ac4,9/27/1989,Tucker and Sons,yDoY,Harshad Mehta,Sell,7179,932.71,6695925.09,TRUE
+a0f2c41d-1fe8-42a1-9de7-3feb932ab5a6,9/2/1990,Johnston-Spears,artQ,Kaitlyn Smith,Buy,8087,111.48,901538.76,FALSE
+36810889-4d33-492f-bae1-2126cc5bfd0f,6/4/1991,"Finley, Huerta and Guerra",sCXF,Scott Lindsey,Buy,6899,937.86,6470296.14,FALSE
+469faa5f-9f6c-489e-ab1a-6f81e784b1a0,1/7/1989,Lynn-Davis,BVfk,Harshad Mehta,Buy,4565,691.01,3154460.65,FALSE
+1935e7e7-206a-493a-a9c8-cf77e5df4427,7/21/1988,"Parker, Norton and Moore",vrdd,Sharon James,Sell,735,77.16,56712.6,TRUE
+2d935566-c90f-4319-bc56-b285fb12fb05,9/3/1988,Lynch Inc,zrsJ,James Craig,Buy,1793,307.95,552154.35,FALSE
+9fa0c3c2-5c01-4405-a3cf-72a454e9d2b5,6/11/1991,Gonzales PLC,dUaV,Harshad Mehta,Buy,9974,711.09,7092411.66,TRUE
+dd6c830d-2616-4de2-88cc-e00e82235147,8/21/1988,Olson Ltd,omJD,David Graham,Sell,4852,76.68,372051.36,TRUE
+08304869-2c1b-4eb9-9296-5e18ef1d918c,6/9/1989,Williams-Aguirre,mHIq,Dennis Taylor,Buy,8411,586.35,4931789.85,FALSE
+ef4f9ecb-f4ab-4fc6-b7a1-f2a8143165eb,11/23/1989,Walters PLC,knPt,Harshad Mehta,Sell,930,352.42,327750.6,TRUE
+f4969f37-f62e-47cf-80e4-391e40ac1008,4/7/1991,Rivas-Gardner,ksYb,Suzanne Smith,Buy,5277,624.71,3296594.67,TRUE
+f07b51bd-1305-4b17-a58e-105e10f8c822,1/16/1991,"Flores, Ryan and Johnson",vQmM,Gina Williams,Sell,9661,55.28,534060.08,FALSE
+84c6bdfd-94e6-4323-ac9c-77fe45d974c2,2/2/1990,Knapp Inc,RECT,Kimberly Simmons,Buy,9032,872.82,7883310.24,TRUE
+b108fff2-ff4e-4cfc-b6f9-aeea597bb1b3,2/22/1990,"Perez, Dixon and Mccoy",dToz,Jenny Hopkins,Buy,8408,973.75,8187290,TRUE
+6067d4a0-7a03-4944-88c7-31054ee78296,9/4/1989,"Lee, Martinez and Mclean",fjat,Jason Moore,Buy,6049,969.19,5862630.31,FALSE
+17da4b89-a19f-410d-a719-2f9951b8b0b8,2/28/1990,Bender Ltd,iSxH,Harshad Mehta,Sell,2938,752.16,2209846.08,TRUE
+112eccab-71f2-413d-a1f3-1b867fc54229,7/12/1989,Henry Group,whIg,Brenda Vazquez,Sell,1250,138.79,173487.5,FALSE
+a74c8db1-a49e-4517-a2f1-17eef9ef3567,5/20/1990,Martin-Garner,ISut,Harshad Mehta,Buy,7660,760.68,5826808.8,FALSE
+8dec6353-91eb-481f-83a3-f0d000431afa,10/7/1989,Hardy Group,cOAj,Harshad Mehta,Buy,2031,34.34,69744.54,TRUE
+4b1318ba-b8a3-4e95-8eed-981ccf01b8f3,7/15/1989,Holt-Moss,BnAx,William Brown,Sell,9304,31.9,296797.6,FALSE
+b57fb7f2-c998-4f9f-aea3-de478fd70324,7/13/1988,Hawkins-Kim,jCKO,Richard Anderson,Buy,1764,330.37,582772.68,FALSE
+c8a738b4-f6c8-4232-9d21-be7941ee90af,9/17/1989,Ballard-Espinoza,dpxF,Harshad Mehta,Buy,1181,493.76,583130.56,TRUE
+3dc692fb-e606-425a-b83b-18dcc24baf84,4/3/1990,"Moreno, Flores and Johnson",vxWw,Harshad Mehta,Buy,612,772.7,472892.4,FALSE
+6fe5353a-db02-4830-8ea7-02cfcc7debc6,7/28/1989,Estrada-Wong,IXQK,Jessica Archer,Sell,7905,686.46,5426466.3,TRUE
+bafe03d9-fcf6-4c78-bd42-0aae8ff5ba23,8/13/1988,"Bradley, Villanueva and Carroll",wuNA,Harshad Mehta,Sell,5337,451.44,2409335.28,TRUE
+8eaa7c05-4193-48e5-ae1b-7fa071b0f8f0,6/15/1991,"Bennett, Garcia and Horton",jJLP,Harshad Mehta,Buy,659,280.89,185106.51,FALSE
+4805c4f6-cbab-4df9-a2f4-bc985668f336,5/13/1990,"Combs, Lewis and Miller",iSFd,Harshad Mehta,Sell,3772,997.15,3761249.8,FALSE
+a09bf617-c21b-45e8-931c-6c0f80ef2b21,2/12/1989,"Curtis, Jenkins and Wolfe",ZWQU,Harshad Mehta,Buy,7504,431.92,3241127.68,TRUE
+b61ce492-bf7a-4ce6-b7b5-14be047865ae,10/27/1990,Warner Ltd,THdh,Harshad Mehta,Sell,3443,456.87,1573003.41,TRUE
+b2b3d101-8eaf-482a-9f5f-3ac93bfcf114,2/8/1990,Kidd-Hoover,NeRB,Harshad Mehta,Buy,4170,171.99,717198.3,FALSE
+580bfec2-c735-4317-b215-1bcaca1e284c,11/10/1988,Perez-Stephens,UQtC,Ariel Bridges,Buy,9762,796.86,7778947.32,FALSE
+25171a9e-f963-4eb9-a402-e6d538285abf,3/12/1991,Matthews-Parsons,tnaG,Harshad Mehta,Sell,680,696.75,473790,TRUE
+fe26f8f9-e021-49b9-ab2f-31e593546978,2/1/1991,Walker-Blackwell,jyhq,Andrew Gregory,Buy,7104,228.56,1623690.24,FALSE
+34286315-5835-4665-8e4c-02ec5e4afa49,4/13/1990,Berry Inc,uQGt,Steven Farrell,Buy,8230,91.56,753538.8,TRUE
+2e3377da-d89b-4f54-a954-707708957ba3,11/26/1989,Smith PLC,tnSu,Harshad Mehta,Sell,3247,683.69,2219941.43,FALSE
+a13ea038-132b-494a-a9af-2f4c7fcbe21c,4/1/1991,Hooper Inc,mVDA,Richard Thomas,Sell,4349,657.97,2861511.53,TRUE
+500b2547-c6bd-47c4-91d4-1442c38db5e2,10/13/1990,Duncan Group,BtlQ,Sarah Clark,Buy,1779,280.53,499062.87,TRUE
+1dfcdc1c-6963-4d38-8921-10d105672b8c,4/22/1989,Miller Inc,pzCN,Nicole Brown,Sell,3606,951.35,3430568.1,FALSE
+6692a1e6-1e3d-4517-8dfd-6a1538a0bbd9,1/8/1991,Walsh-Lawrence,kaON,Harshad Mehta,Sell,7353,159.55,1173171.15,FALSE
+4a2a475b-5791-41a8-9ded-6d634db19931,4/30/1990,Joseph-Stafford,xQbn,Harshad Mehta,Sell,2844,438.01,1245700.44,FALSE
+763091ee-c5ac-47ca-a492-f312236d220b,1/31/1989,"Hunt, Adams and Moss",Jkkm,Harshad Mehta,Buy,9535,944.18,9002756.3,FALSE
+d48be481-065f-4e6b-aef8-f779448dbdbc,9/30/1988,"Dyer, Harrell and Tate",mGTg,Harshad Mehta,Sell,5288,425.53,2250202.64,FALSE
+39ef3aa2-f427-41d9-ad08-a7ebcf34ed6d,12/17/1988,Williamson PLC,WVXf,Sara Lopez,Buy,2241,642.14,1439035.74,FALSE
+0da3f168-b965-4d71-8235-169e852163bf,10/30/1990,Bruce PLC,luQP,Harshad Mehta,Sell,6717,403.62,2711115.54,FALSE
+6d2a366d-59af-47a4-a5ae-872f7ada3e49,3/23/1990,Newman PLC,kMeA,Harshad Mehta,Buy,2579,281.47,725911.13,TRUE
+1cf976a3-f870-4bee-99bd-8dfc13f892ad,1/18/1991,"Benjamin, Griffith and Bates",Hbti,Brian Anthony,Buy,6584,984.14,6479577.76,TRUE
+eec215ae-155b-4954-84b2-47de31074bbe,1/13/1990,"Jensen, Ramirez and Dunlap",DyjP,Harshad Mehta,Sell,9927,415.24,4122087.48,TRUE
+376ab471-b4d1-4003-ba5b-f1f332e0040c,10/18/1988,Robinson-Quinn,LLEZ,Harshad Mehta,Buy,7521,895.16,6732498.36,TRUE
+7118d972-4e47-4341-8582-05ce736631af,12/30/1990,"Horton, Rogers and Vargas",ClEV,Harshad Mehta,Buy,4552,237.66,1081828.32,FALSE
+85ad199a-f7a1-49d7-8150-9cae2442adb7,7/1/1991,Bean Inc,hBMa,Tina Villa,Sell,5981,220.97,1321621.57,TRUE
+3c94fbbe-b306-4beb-b94e-7c6c79bd959a,3/23/1989,Castro Group,VugQ,Harshad Mehta,Sell,6765,40.82,276147.3,FALSE
+713c3835-7e91-430d-b977-b8a4f7eb70d5,10/2/1990,Shields Group,EdzF,Jillian Baker,Buy,2949,655.15,1932037.35,TRUE
+987558ee-254f-469a-8a84-8b84e520a957,1/6/1990,Lopez-Cox,WWfM,Tracey Phillips,Sell,7490,374.84,2807551.6,FALSE
+af49e6ab-8799-4fd5-9839-b98667396ff9,10/10/1988,Ellison-Gomez,QBfp,Rita Mcknight,Sell,7005,865.71,6064298.55,TRUE
+4ca09b49-1f3f-46c5-9b11-3714e73f936f,9/11/1990,Ali Inc,yLNK,Shannon Peters,Buy,2589,478.48,1238784.72,FALSE
+bcde523c-151f-4cbd-977e-454fc294a2f1,10/4/1990,Moody-Lopez,ygzB,Roberto Wells,Buy,9923,968.51,9610524.73,FALSE
+f9b5e06c-1943-472f-b369-31353c600f44,5/28/1991,Scott PLC,mBan,Harshad Mehta,Buy,9307,193.67,1802486.69,TRUE
+cbc33e92-86d8-43ee-b454-b03512b492b3,6/4/1990,"Hoffman, Townsend and Jones",CYIG,Robert Johnston,Sell,9640,869.94,8386221.6,TRUE
+28108737-bfe9-4c0d-a162-fca3b71970e1,6/21/1990,Peterson-Marquez,SGJu,Kenneth Johnson,Buy,4711,778.83,3669068.13,FALSE
+00992bab-1fa5-4ab4-9369-d84499838d51,1/13/1991,Wright Inc,PAJG,Isabel Reid,Sell,2939,773.21,2272464.19,FALSE
+7037372c-6128-40ce-be03-233637b377b6,4/10/1989,Jones Inc,EujC,Harshad Mehta,Buy,8627,846.34,7301375.18,TRUE
+9efbaf02-6234-4420-b5dc-3dc4edfc37cf,6/5/1990,Mckay-Sanchez,PKNf,Karen Johnson,Buy,5978,763.41,4563664.98,FALSE
+74db28d8-e743-472f-98b6-8b5b6282f01a,7/10/1990,Ball-Haley,MPlB,Tiffany Farmer,Buy,9187,629.96,5787442.52,TRUE
+f7c0b0b8-177f-469d-bcca-8abd73a5414d,6/30/1989,Luna LLC,irJx,Harshad Mehta,Buy,6403,139.93,895971.79,FALSE
+bc232839-6679-4061-94ee-8117d02a39b2,1/17/1990,"May, Allen and Fisher",vNmk,Sharon Simmons DVM,Sell,951,42.2,40132.2,TRUE
+7447f7f5-fc38-4085-8b2d-1ea7acdb846b,8/2/1990,"Thompson, Lopez and Bennett",ojZc,Aaron Butler,Sell,1787,921.64,1646970.68,TRUE
+80719a50-8c04-44a1-a5dd-2459e39da275,1/4/1990,Jimenez Inc,NDfG,Harshad Mehta,Sell,6933,620.48,4301787.84,FALSE
+ac609375-4aa7-403c-9072-2ed4cf0c8a9f,4/24/1989,Patrick-Ingram,ltVJ,Monica Cox,Sell,2527,798.57,2017986.39,TRUE
+7941c55b-8df0-4ed6-9d5d-789bfd81fd12,1/17/1989,"Wood, Turner and Willis",LhPH,Harshad Mehta,Sell,9860,486.71,4798960.6,FALSE
+99473198-c13f-4548-8e0c-f7302fa5db2d,3/22/1991,Williams-Turner,ZdiA,Joseph Lewis,Buy,4100,126.14,517174,FALSE
+46b67488-9152-44a5-b5c2-c7f546159851,10/30/1990,Brown-Hardy,GQTs,Scott Bautista,Buy,5152,133.93,690007.36,FALSE
+0edfdeb8-42d7-4218-b3cb-33f64b19adeb,7/24/1989,"Jackson, Graham and Cunningham",HDhY,Jerry Jefferson,Sell,2838,688.71,1954558.98,TRUE
+f8a58924-a745-471d-9d1e-267a6aea96ec,7/25/1988,Allen-Jones,KHsy,Harshad Mehta,Sell,5832,436,2542752,FALSE
+e8423eab-f3f3-4748-8651-fe119d647bf3,8/29/1989,Weaver LLC,FBkb,Harshad Mehta,Buy,5487,208.52,1144149.24,TRUE
+dd90cb42-7723-4621-8709-f2ef7dc04b2c,9/4/1990,Stuart-Wright,Qjio,Harshad Mehta,Sell,8102,496.68,4024101.36,TRUE
+a495431a-3df9-4559-b4d9-8c2d72a6c7b8,12/31/1989,Alvarez PLC,LKOM,Harshad Mehta,Sell,5636,73.57,414640.52,TRUE
+c72b9311-bed8-41d3-ab7b-a4040db80347,2/12/1989,Reese Group,rLue,Katherine Decker,Buy,4013,586.15,2352219.95,FALSE
+70ee9179-2bff-4c07-b95d-ed06e5bb2404,6/6/1989,"Zimmerman, Stephens and Todd",AESy,Harshad Mehta,Sell,1166,276.3,322165.8,FALSE
+efa4b593-5c12-4195-ac68-40da2866a55a,1/30/1989,Castillo Ltd,mnNY,Harshad Mehta,Sell,7823,799.58,6255114.34,TRUE
+7dc1494c-2ea3-4044-9e23-de11b43e88f5,2/22/1991,"Chapman, Holt and Pham",ZFlv,Harshad Mehta,Sell,4480,317.26,1421324.8,TRUE
+ee023642-240b-4111-a686-be425bf53044,11/21/1988,"Blair, Snyder and Long",WKoD,Kristie Mccoy,Sell,4207,460.67,1938038.69,TRUE
+43399eed-1716-47b0-b6ad-a124d5da05d5,10/16/1990,"Becker, Jones and Scott",DlYs,Sheryl Nunez,Sell,5826,21.5,125259,TRUE
+13f83e50-7930-4579-8c5f-1bbff8471a08,3/9/1989,Grant-Johnson,obsN,Tyler Dixon,Sell,3473,81.72,283813.56,TRUE
+ba62f376-d329-4045-8e6d-dcaec378b7dc,8/25/1988,Lopez PLC,nKud,Theresa Gamble,Buy,9045,398.57,3605065.65,FALSE
+a01379c7-b11c-476b-9ecb-b29cd79fabde,12/22/1988,Wise Inc,gGCv,Rachel Kelly,Sell,2182,485.14,1058575.48,FALSE
+0f1a53f4-6fb5-4f13-8648-f5d96501d384,12/8/1989,"Walker, Wood and Bryant",jcIA,Harshad Mehta,Sell,9067,604.02,5476649.34,TRUE
+0274d5e0-1d14-44b1-b757-8813fb1af049,9/17/1990,Hall-Morales,LLiq,Harshad Mehta,Sell,6848,298.75,2045840,FALSE
+39a78b8e-51de-44e8-b1a5-cee303963e8c,9/6/1990,Miller-Burke,RpTe,Kevin Zhang,Sell,9917,698.03,6922363.51,FALSE
+725a7da2-20a9-4072-99d5-80dc67ca2c1a,11/9/1988,"Bryant, Davila and Tucker",oKDz,Karen Carter,Buy,517,861.52,445405.84,FALSE
+bb729f55-1577-4781-957c-618191240fcc,12/20/1990,Wells-Thompson,EVSZ,Harshad Mehta,Sell,8406,782.05,6573912.3,FALSE
+82fb6171-719e-4eea-bcc2-83acc4cc84e7,4/18/1991,Thompson PLC,GMlE,Joseph Day,Buy,8908,49.22,438451.76,TRUE
+0a7beac9-a1aa-48f3-98e7-c3c6be5c7322,4/14/1991,Larson LLC,EKJC,Eric Thompson,Sell,4074,485.7,1978741.8,TRUE
+88f05afe-773b-4856-8e7d-4005a21b3e4c,2/23/1991,Taylor-Sandoval,ufBA,Harshad Mehta,Buy,3367,113.88,383433.96,FALSE
+4f96ce88-9171-47f1-9f16-5f32e06d1967,6/13/1991,Sanford Ltd,oouF,David Lynn,Sell,925,249.62,230898.5,TRUE
+23e6cbfc-c1f6-4d1b-b81d-8b88e56b4256,4/3/1990,"Wallace, Lutz and Steele",OkLR,Catherine Deleon,Sell,7768,986.8,7665462.4,FALSE
+96cc57d9-e035-42e7-9e23-78701fcd4f72,8/4/1990,Sherman LLC,zjUm,Jordan Brown,Buy,5845,151.07,883004.15,TRUE
+cda06f4f-daab-4f42-ac77-301c6d83aeb9,5/23/1990,Pruitt-Whitney,HbvZ,Michelle Brown,Buy,9808,503.9,4942251.2,TRUE
+f17f43f2-364d-4892-a245-788637e5a16a,4/1/1991,"Wade, Ellis and Sanders",AyZd,Harshad Mehta,Sell,512,621.97,318448.64,TRUE
+d4d6f121-26a5-45ba-971a-e041c342136a,8/10/1988,Davidson-Thornton,ZqLx,Matthew Ellison,Sell,7643,705.44,5391677.92,TRUE
+cf830545-ca3d-4919-b7c5-ebf7676f3533,2/11/1991,"White, Long and Johnson",JaKY,Harshad Mehta,Sell,7687,564.05,4335852.35,FALSE
+453b6bb9-4dc5-49ae-9dfa-e5330a476336,5/12/1990,Clark-Bowman,ceYs,Samantha Scott,Sell,828,19.67,16286.76,TRUE
+915b8c52-b2c6-4890-b8ad-0944c18f3b41,8/2/1988,"Parker, Cameron and Wang",nWec,Philip Reed,Sell,7264,333.2,2420364.8,FALSE
+4b785d9f-9668-43cf-91a9-16bac9e53944,6/1/1989,Boyd Inc,DTbx,David Snyder,Buy,8967,522.53,4685526.51,FALSE
+075281da-8b24-4dbe-b7c7-e5aac8e31af7,9/28/1988,Rios-Hartman,uAif,Harshad Mehta,Sell,6088,96.99,590475.12,TRUE
+8ae9fd68-a551-4ad2-97fa-5f71c80d556f,5/8/1990,Wright Ltd,qaMh,Keith Bennett,Sell,2604,357.12,929940.48,FALSE
+27405923-e79e-45ff-b9e5-93f30bd750ea,12/23/1988,Myers-Hopkins,lBbs,David Keller,Sell,3067,42.87,131482.29,FALSE
+830a7298-18a3-4c14-b22c-c4456bce490e,11/5/1988,Vasquez-Maxwell,UtSU,Jennifer Marsh,Buy,2886,87.79,253361.94,FALSE
+6ad1d3cb-9729-42c3-a1e7-9089eb89ed3a,8/23/1988,Estes-Bennett,dkvS,Harshad Mehta,Sell,1222,402.95,492404.9,FALSE
+5fcfe369-be4d-4542-aa42-9f3ddcdf9d02,4/11/1990,May Group,rvVV,Angela Bender,Sell,4179,141.39,590868.81,TRUE
+46b76866-b053-44b7-9bf5-55f09a86f44d,12/7/1989,"Lindsey, Shah and Porter",LRMb,Harshad Mehta,Sell,1671,571.87,955594.77,TRUE
+9073fde7-717a-4b79-9674-0d21bdcd7636,3/14/1989,Hall Group,PLUu,Harshad Mehta,Buy,5173,692.57,3582664.61,FALSE
+b2ad2de9-4097-4665-8b6c-649f2b100df5,12/26/1990,Barber PLC,nNDz,Thomas Jones,Buy,5204,802.58,4176626.32,FALSE
+b354eaf4-43b8-42b8-827b-946504b9ea79,3/12/1991,"Williams, Crosby and Adams",VbBL,Harshad Mehta,Sell,2243,208.15,466880.45,FALSE
+8c25ac7e-4fc6-438c-b220-eb2ffbb2dd5c,9/20/1990,Howard Inc,lFhH,Harshad Mehta,Sell,9979,175.81,1754407.99,FALSE
+5905d82b-c0cd-4e29-a5a6-7c1c730b2dda,1/20/1990,Roberts-Fuller,gAdW,Ryan Arias,Buy,6906,113.52,783969.12,FALSE
+aeb6e428-31b6-41ac-9b78-00d85796ddc9,12/6/1989,"Mcdonald, Andrews and Hanson",kMtd,Harshad Mehta,Buy,7457,640.07,4773001.99,FALSE
+d1a44eda-9254-4d37-9b4b-ac1e9142a171,3/24/1989,Howard LLC,Nhfo,Mariah Murphy,Buy,3540,709.41,2511311.4,TRUE
+c364efe8-61bf-4c65-8a62-64cdfc041ae4,9/5/1988,Shaw-Richardson,wSUF,Harshad Mehta,Sell,3866,41.27,159549.82,TRUE
+c5b8fa80-196a-44b8-8379-835148d7df49,9/9/1988,Thomas-Collins,tkmk,Harshad Mehta,Buy,5744,936.85,5381266.4,FALSE
+a0395254-53cd-4ba3-94f9-99f5c65a93eb,12/10/1989,Copeland-Morales,Akyc,Joshua Hill MD,Buy,3014,61.45,185210.3,FALSE
+a119d94b-1bac-416c-9388-59a20a1bc40e,6/12/1991,Meyer PLC,FRqp,Krystal Porter,Buy,5068,545.88,2766519.84,TRUE
+72121490-2a22-4195-9ccd-6b87abc29625,11/8/1989,"Calderon, Harrell and Clayton",CxMU,Laura Lambert,Buy,6017,711.97,4283923.49,FALSE
+12ed1930-9e44-4a19-b70b-652e062faf4c,11/27/1990,Davis-Shaw,Osdx,Harshad Mehta,Sell,8887,872.26,7751774.62,TRUE
+ae9b9bcf-3f6b-48cf-b771-8b9f1a364c02,4/8/1989,Schmidt Inc,Dcot,Mr. Jeffrey Avila MD,Sell,828,716.95,593634.6,FALSE
+e33bf0e6-d35f-480d-b62e-32fbf8f34486,11/29/1989,"Washington, Campbell and Adams",usXU,Shawn Hodges,Sell,1465,803.71,1177435.15,TRUE
+3a760d63-0959-43e5-93c1-a6219dae7ee6,11/10/1988,"Dickerson, Butler and Wells",qpfc,Mrs. Jamie Franklin,Buy,4592,346.06,1589107.52,FALSE
+2e6049c4-8c55-4c34-9c1f-8f5c3582dc02,2/15/1991,Garcia LLC,EJmC,Hector Long,Buy,798,816.68,651710.64,FALSE
+84e1c9c0-9bfb-4f67-a2f3-d68e92cf86c9,5/2/1989,Moore and Sons,VUlO,Valerie Mcdonald,Sell,7286,89.31,650712.66,FALSE
+b081afca-c12a-4093-a8be-af45ab57765f,7/30/1988,Gamble LLC,zwGs,Robin Willis,Sell,495,895.87,443455.65,FALSE
+bdc9116c-7581-487a-92b6-69b2a8558412,10/27/1988,Zamora-Gonzalez,JZhE,Christopher Ortiz,Sell,7500,552.12,4140900,FALSE
+84e00f80-79bf-4324-b0c3-f147c7b78f69,1/29/1990,"Parker, Beck and Moore",EiHV,Harshad Mehta,Sell,8182,819.12,6702039.84,TRUE
+7dec3826-a244-43a1-b5b7-f1e22ea1baf1,10/24/1989,Brown PLC,NBSy,Craig Johnson,Buy,4271,457.8,1955263.8,FALSE
+2f1ee6d6-fcbd-4387-8a7f-ae8c5aad36df,9/15/1990,"White, Daniels and Rios",lHTr,Harshad Mehta,Buy,4460,647.14,2886244.4,FALSE
+1f211260-0858-4691-92a0-4972146b8e5c,8/2/1990,Hoffman-Bishop,oBey,Harshad Mehta,Sell,2602,531.14,1382026.28,TRUE
+fe7e370f-9b61-47ad-b147-e70b75b027d3,12/15/1990,"Newton, Martinez and Oconnor",NDUM,Kelly Mcbride,Sell,817,734.27,599898.59,TRUE
+a31ab85a-9567-4bf9-aaf3-71e54c291e08,3/20/1989,Wood LLC,HnNQ,Harshad Mehta,Sell,2882,90.81,261714.42,TRUE
+b5933de3-dcd3-47e8-89d0-eb6bfe882c4f,4/5/1991,Ortiz-Leblanc,MIGQ,Harshad Mehta,Sell,5046,69.75,351958.5,FALSE
+c146b632-be56-4442-8f33-ced44bcea7ec,3/28/1990,"Thompson, Cook and Buchanan",fIfR,Harshad Mehta,Buy,5586,254.63,1422363.18,TRUE
+41de270a-68c9-454a-a95e-8a97285c2c0e,5/9/1989,Stevens PLC,PBgD,Harshad Mehta,Buy,8435,167.95,1416658.25,TRUE
+8c45ddb7-714c-4b1a-860d-38e67e4c3190,5/29/1991,Morris-Richardson,wohc,Harshad Mehta,Buy,5080,873.07,4435195.6,TRUE
+23ff72f8-f098-4521-a6ea-aaee86eec070,11/26/1989,"Moore, Owens and Williams",Flbq,Harshad Mehta,Buy,7366,227.02,1672229.32,FALSE
+df452596-fdef-4908-b028-4627ba4d5336,9/17/1989,Moore PLC,SdxM,Harshad Mehta,Sell,4591,976.11,4481321.01,FALSE
+c88a73c6-a242-4dbf-b377-b75113610610,2/16/1989,Terry PLC,cPiS,Harshad Mehta,Sell,7292,343.53,2505020.76,TRUE
+9e4ba863-bbc8-46ff-aa69-020c639a6ab3,7/7/1989,"Rasmussen, Flores and Cruz",oYlG,Harshad Mehta,Buy,5688,190.3,1082426.4,FALSE
+079b8460-dee7-457a-94ec-b70e90860ec1,1/20/1990,"Pearson, Ortiz and Scott",UIbf,Harshad Mehta,Sell,7751,791.8,6137241.8,TRUE
+ed2b288a-6a2a-458a-bd0c-7c0e2270cc9a,9/22/1989,Gonzalez-Smith,eGSi,Rachel Brown,Sell,3736,662.12,2473680.32,TRUE
+1e5ebf06-fbfe-439e-aa72-d0307b408951,3/18/1990,Williamson-Brown,xPYI,Harshad Mehta,Sell,1267,503.21,637567.07,FALSE
+18545dd2-a15f-4cc3-94dd-d50652d5346b,12/4/1988,Martin PLC,yuZE,Harshad Mehta,Buy,1162,559.81,650499.22,TRUE
+0ff165a1-7b1e-41c8-a6df-0bb8d1244d7f,12/9/1989,"Khan, Moore and Stanton",TlJF,Diana Matthews,Sell,2256,722.01,1628854.56,FALSE
+bb67e84e-e49d-4186-a849-07a67df32d3d,11/3/1990,"Carroll, Giles and White",RsUr,Stephen Johnston,Sell,7960,236.17,1879913.2,TRUE
+42bb4057-e625-4e2b-919d-7580df8748cd,3/17/1989,Johnson-Patterson,tpXh,Shane Patterson,Buy,5261,996.37,5241902.57,FALSE
+19efa15e-70ff-476d-bc77-72e1f293b93e,9/29/1988,Tran-Romero,zCsP,Harshad Mehta,Buy,5405,975.05,5270145.25,FALSE
+99edfa70-10a5-4c12-ad28-a00efdf32158,10/26/1988,Christensen Group,vpfz,Harshad Mehta,Buy,6641,653.82,4342018.62,TRUE
+79e4cb8c-e600-4363-8eff-4ad4a7d04935,4/15/1990,Pham LLC,AlVZ,Harshad Mehta,Buy,4829,207.55,1002258.95,FALSE
+bae9bef9-80db-45fc-87d2-a13a3b7cf094,6/5/1991,Collins-Huff,mNnK,Lee Parrish DVM,Sell,9448,683.43,6457046.64,TRUE
+40a5f4f3-7767-416f-9a83-cacd081a2ac9,11/1/1990,"Chang, Mccarty and Weaver",FXbu,Harshad Mehta,Buy,7430,81.48,605396.4,TRUE
+ac735b0d-6fa9-4c24-9611-2be428cd642a,10/22/1990,Garcia-Clark,kDdC,Harshad Mehta,Sell,5434,40.35,219261.9,FALSE
+59930b43-e077-49f3-bd6d-2be9cf689417,3/3/1990,Black and Sons,nkVV,Mike Johnson,Buy,9024,265.11,2392352.64,FALSE
+361d72da-1794-427c-8d95-52b5973d2da6,5/9/1991,Hines-Fletcher,YlzF,Paula Padilla,Sell,4430,468,2073240,TRUE
+dc9af541-19a1-48d5-8d6a-a6a4a272a466,9/20/1988,Malone LLC,nJsS,Duane Moore,Sell,8110,869.59,7052374.9,FALSE
+591c438b-df1f-4ad5-992e-74e5cd02f8d9,4/26/1990,Hull Ltd,DLzX,Harshad Mehta,Buy,6901,729.9,5037039.9,TRUE
+a86d0f4a-3165-4943-b10a-4be9f1d88178,12/20/1988,Kane Inc,aqFh,Harshad Mehta,Sell,4946,745.28,3686154.88,TRUE
+89269893-73e0-469e-8928-53d9585ac63e,11/12/1988,Ortiz-Rosales,XZVD,Harshad Mehta,Sell,6831,431.24,2945800.44,TRUE
+5b7524e0-444e-49ab-a8de-16b1f867ba89,2/27/1990,"Smith, Duffy and Carter",TEbU,Harshad Mehta,Buy,7341,352.48,2587555.68,TRUE
+10be07a9-b5c2-487d-bec9-b7a4558478c6,5/11/1989,"Kennedy, Johnson and Taylor",IzHm,Shaun Hartman,Buy,1053,377.33,397328.49,FALSE
+41173f31-2a5b-4dc9-b70e-3a2d1a37c1c9,3/21/1990,"Hernandez, Wallace and Valdez",DLPu,Harshad Mehta,Sell,2639,987.77,2606725.03,TRUE
+f586072a-f318-4084-ad60-4a90d143f747,9/20/1988,Espinoza-White,fhyu,Harshad Mehta,Buy,7156,49.71,355724.76,TRUE
+37d1d51f-d1bc-4385-8caf-5e67032471ab,4/27/1989,"Jensen, Wilson and Nichols",hnIz,Kenneth Morris,Buy,1642,868.36,1425847.12,TRUE
+731aa86e-85ca-4a1f-b8a7-a2ad46839081,7/8/1989,"Taylor, Williams and Sullivan",dygN,Reginald Nelson DDS,Buy,5393,582.89,3143525.77,FALSE
+683058eb-3143-4ae0-98de-bc36f5bdf077,4/12/1990,"Hampton, Love and Lewis",omMx,Jason Perez,Buy,1291,444.23,573500.93,TRUE
+b51daefd-e980-4f0b-bae1-916eff51c9a0,5/9/1990,"Stephens, Brown and Camacho",duQE,Harshad Mehta,Buy,6413,728.01,4668728.13,TRUE
+efc5fc78-a2b8-4972-9b4f-51b509e004ab,1/14/1989,"Morton, Fowler and Carney",qEDu,Cassandra Torres,Sell,7038,491.8,3461288.4,FALSE
+dc3272a3-2aa3-495d-8a62-ccf0a875d966,6/19/1989,Harris and Sons,znRt,Harshad Mehta,Buy,2781,874.69,2432512.89,TRUE
+ca4877cb-29fd-4f34-a81a-2cf5d1756db8,1/30/1990,Lane-Boyd,RwMy,Bradley Escobar,Sell,9509,901.69,8574170.21,FALSE
+8a2146ad-7b1d-4cab-8c46-3520fa0f84ca,9/17/1989,Berg Ltd,hbMS,Beverly Smith,Sell,1640,427.5,701100,TRUE
+3882fd3c-d669-4382-8eae-c457a6441e0d,8/28/1988,Zamora PLC,XYNQ,Harshad Mehta,Sell,6272,284.06,1781624.32,FALSE
+2771ba3e-fd05-410d-ad88-a3c7047126e0,9/4/1989,Anderson-Hogan,Xlwd,Donna Perez,Buy,5641,596.43,3364461.63,TRUE
+b900189e-2c72-4f56-bb45-73dffa2ef313,2/23/1989,Glass PLC,EGhZ,Frederick Gutierrez,Buy,9680,913.24,8840163.2,TRUE
+7b07482a-f5bc-4e77-9070-db658ab32cb8,4/17/1991,Foster Group,JVhO,Daniel Fisher,Buy,1465,218.56,319880.4,FALSE
+ce041528-617d-4275-b44b-03e21791943b,11/2/1988,Brown Ltd,tvax,Harshad Mehta,Sell,8791,626.74,5509671.34,TRUE
+71b9e4d3-8327-4f93-b2a9-535dcc2dca37,4/3/1990,Diaz PLC,Bodj,Tina Gutierrez,Sell,9972,635.24,6334613.28,TRUE
+2b93093f-7802-4576-96ab-303999f2929f,11/22/1989,"Davis, Johnson and Franklin",ivBo,Harshad Mehta,Sell,8802,735.78,6476335.56,TRUE
+803b3061-1121-410d-9d6a-15a0398af7e1,4/6/1991,"Howell, Graham and Alvarez",IvEX,Jason Burns,Sell,7594,140.25,1065058.5,FALSE
+0edfbf95-6b8b-4be6-8a91-7eb25eb3bb93,6/10/1990,Davila-Johnson,QvFN,Rebecca Christensen,Sell,4412,718.67,3170772.04,FALSE
+81f35bc3-afc8-42c0-994d-b71f5d7f0104,5/24/1990,Miller Ltd,xFTy,Catherine Benson,Buy,1424,909.94,1295754.56,FALSE
+6e277d62-3bd4-4fc0-8648-f182f2de7ad2,8/25/1988,"Flores, Mclaughlin and King",PMgs,Melissa Wong,Buy,9447,187.89,1774996.83,TRUE
+db9eaf79-5246-4eef-b4f0-a0827d7a556f,6/10/1989,Murphy Group,tdVS,Jasmine Charles,Sell,3241,245.17,794595.97,FALSE
+9430fbc3-6e8f-4836-a121-d87a7fca0566,8/28/1990,"Weber, Atkinson and Hunter",bReo,Jeffrey Reyes,Buy,7519,971.68,7306061.92,TRUE
+8556230c-fb43-4635-b440-f2b81f7cf20e,3/13/1990,"Holt, Spears and Cline",keKK,Harshad Mehta,Sell,3586,189.17,678363.62,TRUE
+fa4a6897-694d-458d-889f-6ebbff0cdeaf,9/5/1989,"Bradford, Richardson and Davenport",ssPk,Harshad Mehta,Sell,1910,855.84,1634654.4,TRUE
+86014901-e770-4296-a554-d0a2c65069df,4/22/1990,Watson-Klein,dgxa,Ryan Gomez,Sell,6688,497.36,3326343.68,TRUE
+f440479b-a41e-486c-b176-bbe8d8dedb77,3/18/1989,"Cannon, Scott and Small",Zgic,Dana Guzman,Buy,3023,254.76,770139.48,TRUE
+fe94ac62-5511-4973-94ee-f527bd4471d3,9/21/1989,"Rodriguez, Wolfe and Andersen",ZRFy,Harshad Mehta,Buy,5401,872.04,4709888.04,FALSE
+e1928bc3-6b98-4a59-b26d-eabe5064700a,5/11/1991,Marshall PLC,YCpc,Colleen Franco,Buy,4286,450.85,1932343.1,FALSE
+80bbf659-0b7a-4d55-8bf3-d92e82972988,9/14/1989,Diaz Inc,jrwa,Melissa Hickman,Sell,9005,519.67,4679628.35,TRUE
+11535e76-8e7f-4a4a-8208-dcdcaabe2b63,12/14/1989,Oconnor-Bennett,whuL,Richard Vasquez,Buy,6077,365.64,2221994.28,TRUE
+0370e7d1-02a0-45f6-82b2-9cf5b92ca2fc,12/15/1988,Harper-Hodges,pUKp,Harshad Mehta,Buy,4368,597.02,2607783.36,FALSE
+d9d50c80-eb62-40ce-a89f-a49768c5f6c6,4/15/1990,"Gonzalez, Hardin and Gonzales",kdyN,Anthony Lambert,Buy,4848,171.89,833322.72,FALSE
+9d849912-3f89-46c0-9942-a24b8831d37c,2/12/1989,"Williams, Farrell and Rodriguez",SxdO,David Jones,Sell,4949,397.17,1965594.33,TRUE
+278da340-14e3-4ddc-a05f-d9e5a7a6e0e5,11/28/1990,"Gonzalez, Thomas and Norris",TKWo,Harshad Mehta,Buy,9535,969.72,9246280.2,TRUE
+c70664c8-010d-40e1-affe-2ad56e8a985f,6/18/1990,Watson-Tanner,RLxW,Jessica Carrillo DDS,Buy,3809,265.55,1011479.95,TRUE
+d20e0eba-4845-4f50-9ab3-0a169eebd1cf,5/29/1991,Parker-Kirk,NnHV,Harshad Mehta,Sell,9373,660.17,6187773.41,TRUE
+9d984cf4-848d-406c-b54d-fcd2092e9bb6,4/8/1991,Hoover-Saunders,UGEQ,Carmen Nelson,Buy,6719,331.94,2230304.86,TRUE
+5ba17d0d-6f29-474e-a656-6ae6ea6bb38d,9/19/1990,Juarez-Williams,LGgN,Theresa Carr,Sell,8747,775.74,6785397.78,FALSE
+b35bdb3a-16ed-41e6-9bd0-fe08dd7a21f1,3/13/1991,"Malone, Henderson and Aguilar",hWGM,Michele Phillips,Sell,9186,139.56,1281998.16,FALSE
+05b57edf-a396-4bc9-b90c-f3da9ebea214,12/3/1990,Thomas-Brown,FfVw,Dr. Lisa Lewis,Buy,9676,970.12,9386881.12,FALSE
+7a2e7bb9-2d71-4346-8fe6-a04d962304e3,8/27/1990,Odonnell-Khan,CFgs,Mrs. Stephanie Horne,Sell,3172,459.25,1456741,FALSE
+ffe102e4-bc69-415e-b1d8-e089df354c5f,3/18/1990,Johnson PLC,aEtE,Harshad Mehta,Buy,6630,243.69,1615664.7,TRUE
+a8bd7799-c7a3-4574-9fe2-330edf0647ef,8/9/1990,"Wells, Rice and Jenkins",Fbjm,Harshad Mehta,Sell,604,82.76,49987.04,TRUE
+88d5bfa4-1af0-4502-8a2f-c969d52e31cb,6/13/1989,Farrell Ltd,SCgS,Harshad Mehta,Buy,1314,178.06,233970.84,FALSE
+171ba7a7-148e-4ca6-9367-6e3fa7d4713f,3/9/1989,"Miller, Garrett and Cooper",jGRo,Harshad Mehta,Sell,1631,524.58,855589.98,TRUE
+77b0f544-37d3-46bb-bb82-8b57fbc1b276,11/2/1989,Jones Group,JCVl,Kimberly Flowers,Buy,7676,343.63,2637703.88,TRUE
+a1f208ea-ae5d-400d-8813-ebcda55c220d,9/26/1988,James Group,VYEo,Jacob Faulkner,Buy,923,830.59,766634.57,FALSE
+23a76877-5650-4b34-916e-abf0d2111474,5/15/1990,"Gomez, Neal and Smith",ulNs,Harshad Mehta,Buy,1028,436.58,448804.24,TRUE
+724aad23-ace5-4c47-a779-e1428897b563,5/28/1990,Chambers PLC,ZjAW,Brittany French,Buy,5129,256.23,1314203.67,FALSE
+53eae4e4-72ed-4229-a569-352d64f1466a,8/14/1988,Mitchell and Sons,wdYT,Michele Daniel,Sell,233,620.97,144686.01,TRUE
+c755055d-0e13-4c33-b426-aef6a99c0c42,11/13/1989,"Pope, Lane and Perez",yFRo,Jack Williams,Buy,2205,709.71,1564910.55,TRUE
+c85fd7c4-2a69-4341-9b81-41ad5a339df2,8/8/1989,Lopez-Warner,SgyZ,Harshad Mehta,Buy,3727,175.37,653603.99,FALSE
+c5ab2690-71f1-4a5a-9c33-00a949298393,12/1/1990,Robinson-Stephens,TOyZ,Harshad Mehta,Buy,6416,175.94,1128831.04,FALSE
+e6c4d7fd-8ae4-4ec7-bf08-19ccce138459,8/27/1990,"Wood, Barr and Mitchell",eYPi,Caleb Waller,Buy,1952,46.3,90377.6,TRUE
+49c90872-df67-4f75-913d-45c8889f90fe,7/2/1991,Decker-Duffy,KMff,Harshad Mehta,Sell,5010,739.04,3702590.4,TRUE
+f9af10e6-8281-4a1d-8f03-248164cbfb5b,9/18/1988,Byrd-Martinez,MlSO,Dwayne Baker,Buy,4275,667.17,2852151.75,FALSE
+2f75142d-9304-4793-add6-42b310a3ecd1,11/11/1989,Ballard Inc,qkCv,Harshad Mehta,Sell,5448,479.88,2614386.24,FALSE
+619094bf-891a-4832-95de-cd3fdf7cb63a,8/18/1990,"Hampton, Young and Smith",iuwm,Anne English,Buy,9542,845.73,8069955.66,TRUE
+a4c7a43b-938c-4404-9b99-ca1041bd768c,11/19/1988,Welch Inc,scWB,Cynthia Garcia,Sell,6290,807.61,5079866.9,TRUE
+e8a846d8-ab8e-40a6-ba33-ebebd8f5d420,11/7/1989,Mitchell LLC,iYhq,Jordan Coleman,Sell,1356,589.5,799362,FALSE
+34e64d9b-ce7d-4fe3-9bc9-f933bdacc968,8/30/1989,Johnson LLC,dTXU,Heather Wade,Sell,3476,869.59,3022694.84,TRUE
+617a4d26-290e-43f7-bedd-0f83de8756f5,12/26/1989,Carter-Stone,FyHh,Kim Peterson,Sell,5745,213.78,1228166.1,TRUE
+cd3213ab-0331-48ca-8096-0ad62fc2dc01,7/27/1988,"Lopez, Barnes and Porter",UTiA,Candice Mitchell,Buy,3586,120.8,433188.8,FALSE
+1817b587-1360-4aa3-9c62-997e54594dfc,4/19/1991,Craig Ltd,ABRa,Christopher Turner,Sell,3684,277.05,1020652.2,FALSE
+b7f29e7d-0364-475a-8269-ad2cc8204964,11/21/1989,Guerrero-Thomas,TItm,Lauren Proctor,Sell,9688,66.52,644445.76,TRUE
+5f17dd44-4524-4db3-8a0d-197501568a29,10/2/1989,"Davis, Wood and Lyons",SeCJ,Sandra Henry,Sell,8153,535.86,4368866.58,FALSE
+e2f11c3c-0adb-4407-aa81-57834f52fa8c,2/17/1990,Sanchez LLC,uqnt,Meredith Evans,Buy,3430,937.24,3214733.2,FALSE
+647826ae-21ec-4db8-a046-1121760238cd,6/4/1991,"Melendez, Parks and Hunter",QiET,Sarah Rivera,Buy,2803,48.95,137206.85,FALSE
+1ceff21b-792b-4660-8ac7-99f342ccd514,3/19/1990,Fischer-Carlson,QANn,Harshad Mehta,Buy,8762,130.89,1146858.18,TRUE
+8cd8f8bc-fc65-4aa5-9476-5af3416082e4,12/17/1988,Rogers PLC,YjFS,Harshad Mehta,Sell,8220,457.68,3762129.6,FALSE
+92b71849-40f7-40f5-aebe-314cf8c82bf3,7/4/1990,Williams-Scott,iAus,Harshad Mehta,Sell,7214,934.54,6741771.56,TRUE
+bf4d2d7c-115f-433b-a196-560c482b4f33,8/2/1989,Merritt LLC,GVsw,Tyler Clay,Sell,1453,322.99,469304.47,TRUE
+94c10afb-9283-46e5-b795-0649eda95fe4,11/24/1990,Lewis-Bartlett,fcrE,Harshad Mehta,Sell,5163,512.16,2644282.08,TRUE
+f0ca7351-5b56-4484-a9d4-44b7eeec46d2,9/4/1988,Grimes-Hill,yhQC,Harshad Mehta,Buy,8649,51.16,442482.84,TRUE
+e2f4fa84-f02e-4808-a691-197f268a0bea,10/29/1989,"Peterson, Keith and Chan",oTFA,Harshad Mehta,Sell,7675,156.86,1203900.5,FALSE
+371ff86c-d6a2-4a8e-bad0-fd303501eee9,5/2/1989,Foster-Price,oEpE,Harshad Mehta,Buy,767,986.76,756844.92,TRUE
+b92b430f-8138-415b-a2e4-703f123a4ffd,1/20/1990,Bell Ltd,gcXs,Theresa Lynch,Sell,4568,965.47,4410266.96,TRUE
+eb974285-7c84-4d8c-94eb-7f82d2f58d8f,12/17/1988,Miller-Holland,IWwc,Shelby Hooper,Sell,9437,14.89,140516.93,TRUE
+5152604e-b91f-485b-8c62-c5e83f54d9ba,9/29/1989,Harrison-Jones,bZEV,Susan Mullins,Sell,6919,952.29,6588894.51,FALSE
+ba7fe019-0df0-4ce8-b74d-9158cc93f363,5/21/1990,Robinson-Berry,kdyg,Harshad Mehta,Sell,3819,642.73,2454585.87,FALSE
+4d496803-fe51-4dff-852b-f692c4fed3a4,5/10/1990,Nguyen PLC,Kxgu,Harshad Mehta,Buy,2845,869.24,2472987.8,FALSE
+aabca943-fc44-4332-b631-02ca4d6db8da,2/21/1989,Page PLC,niih,Margaret West,Sell,7583,460.19,3489620.77,FALSE
+c5e8770f-5dc5-4452-80b0-52c2ca2c5073,7/12/1989,"Hoover, Branch and Mclaughlin",dPIK,Harshad Mehta,Buy,639,520.44,332561.16,FALSE
+4e428b05-a4fc-4d0e-8a1f-bb6f45050daf,1/19/1991,"Weaver, Burke and Morales",mbxv,Ronald Perry,Sell,5064,493.96,2501413.44,TRUE
+5f43bafd-51c0-4715-a9b0-95e0322261aa,1/4/1989,"Mitchell, Baxter and Campbell",RNOq,Harshad Mehta,Buy,4935,670.2,3307437,TRUE
+e9fbb51e-b71a-4f4d-be0a-95fc0444213f,5/29/1989,"Brown, Green and Fields",OVKq,Michael Wells,Sell,3875,148.25,574468.75,FALSE
+ac987518-62c0-4541-9790-80c5903ee0d8,3/13/1989,James LLC,WaKj,Harshad Mehta,Buy,6142,39.67,243653.14,TRUE
+6498888c-807c-4184-b2ae-eb35b4dd04a5,12/4/1990,Gibbs-Duarte,Lxqp,Harshad Mehta,Sell,7202,314.85,2267549.7,FALSE
+c0abba67-ce9c-4b11-bc6e-5fc463c38d43,3/7/1989,"Conway, Oliver and Young",WSUr,Maria Henry,Sell,7412,707.63,5244953.56,TRUE
+a7e3ccae-e6ec-45da-b2d8-c5dff1469f80,2/26/1989,Reid Group,zJLp,Harshad Mehta,Buy,5420,209.83,1137278.6,TRUE
+14189ea3-ba70-41cd-ad7e-231407039854,3/15/1989,"Rogers, Gray and Rogers",XLtZ,Harshad Mehta,Buy,6232,676.7,4217194.4,TRUE
+f199f784-9008-4409-9fce-9d012d6e254f,5/20/1990,Parker PLC,kdIk,Stephanie Mclean,Buy,7991,970.21,7752948.11,FALSE
+6db40737-662f-411b-8974-917694c459aa,5/3/1989,"Cook, Pollard and Jones",ckOH,Harshad Mehta,Buy,2879,102.96,296421.84,FALSE
+fe7c5c3e-f54f-420f-af68-38eeb9dfd252,5/20/1990,"Yu, Jones and Lopez",UUuo,Seth Nunez,Sell,1024,675.88,692101.12,TRUE
+58548c75-9b04-4304-93d0-3033df586022,10/8/1989,"Villarreal, Campbell and Taylor",psgi,Harshad Mehta,Sell,1681,449.31,755290.11,FALSE
+ad730f10-8018-461a-9633-a694deef944b,5/4/1989,Williams PLC,Obsb,Harshad Mehta,Sell,7814,869.46,6793960.44,FALSE
+36746653-1fe4-45e6-99f7-28064d51a32a,7/1/1989,Martin PLC,zonL,Gabriel Fleming,Buy,3424,185.38,634741.12,TRUE
+557a43df-ddb6-4e69-a772-874b2b1c8c42,10/25/1988,Johnson Group,KIWZ,George Erickson,Buy,5813,695.7,4044104.1,TRUE
+e45bcc07-4aca-4163-a361-d7b4b7e707d9,2/13/1991,"Hall, Lyons and Murray",SekW,Ricky Nelson,Sell,7126,839.73,5983915.98,TRUE
+dd5c3b7c-5283-407a-8a58-f29b3c19f336,6/2/1990,Stewart-Snyder,ClGI,Kelly White,Sell,355,945.17,335535.35,TRUE
+2cd7e96e-7a32-4320-82a4-a944dcbd08da,5/3/1990,Kennedy-Salazar,IPxv,Jennifer Brown,Buy,4904,686.42,3366203.68,FALSE
+0cfa0fd3-a105-4a01-a55d-03f28d5786d8,5/18/1990,"Miller, Young and Singh",MMxZ,Harshad Mehta,Buy,1938,502.2,973263.6,TRUE
+0e96c06e-293a-49b6-8872-65f80de4953a,11/30/1990,Gomez PLC,PIGo,Harshad Mehta,Sell,109,621.67,67762.03,FALSE
+8410dd78-8f9f-490a-9103-52a4ff5afc0c,12/9/1989,Cruz-Miller,PLpN,Christopher Gomez,Sell,2971,870.22,2585423.62,TRUE
+8a780d87-6ec0-41d2-b560-78750aa73fb1,9/6/1988,"Adams, Thompson and Ramirez",EFqS,Danielle Anderson,Sell,9089,574.9,5225266.1,FALSE
+5ee8623c-bb15-4cbf-b603-b91724133e52,9/12/1988,George-Aguirre,myjd,Harshad Mehta,Sell,7509,40.08,300960.72,TRUE
+e4bf54b8-cbd1-463a-b71a-aa4c98c00b68,12/8/1988,"Hayden, Perry and Lawrence",mTEm,Harshad Mehta,Sell,7518,931.64,7004069.52,TRUE
+d3ef043b-7e56-4d8c-a814-8737d992bbf1,4/22/1991,"Harris, Clark and Frederick",IkdO,Brian Davis,Buy,5224,692.63,3618299.12,TRUE
+fdb9c2c9-02c8-4916-a024-70236de3317b,5/18/1990,"Adams, Carr and Kennedy",JeSv,Margaret Hernandez,Buy,1115,679.75,757921.25,TRUE
+b6098c52-397e-4541-b201-210eb805ef01,8/4/1988,Garcia PLC,QAZn,Harshad Mehta,Sell,2293,223.52,512531.36,TRUE
+9cf1decf-b5fe-4fbc-b873-b0615f498235,12/18/1990,Carey and Sons,OHNz,Harshad Mehta,Sell,8515,662.3,5639484.5,TRUE
+cb80c363-49d8-4c35-a6e1-69da9de320ec,12/29/1990,Jackson Ltd,VsXk,Harshad Mehta,Buy,7549,399.93,3019071.57,FALSE
+22dc1180-d1bb-44e6-8216-89b53e2d8dbc,3/13/1990,"Hunter, Trujillo and Martin",jGGj,Harshad Mehta,Buy,4258,654.72,2787797.76,FALSE
+8774e4ac-c117-4a88-a63c-14174c1eb120,1/13/1991,Cox-Rodriguez,LEfi,Christy Jones,Sell,4025,115.53,465008.25,FALSE
+904efa3f-fa28-4b0c-81cc-f5a37ad0580d,5/24/1989,Smith-Wiggins,HMKd,Harshad Mehta,Buy,7070,661.27,4675178.9,TRUE
+3accdc9f-1101-4535-85fb-c0c9e6eac52d,8/6/1989,Klein-Strong,SOGj,Harshad Mehta,Buy,7038,999.42,7033917.96,FALSE
+1cb0f9db-4e12-4e11-a501-f99c13ca3978,2/4/1989,"Perez, Morris and Smith",FXrP,Harshad Mehta,Sell,4884,57.73,281953.32,TRUE
+e659034e-9c0f-4a94-a326-2439c54e3d0b,5/24/1991,Hernandez PLC,IMLD,Wendy Luna,Sell,4100,977.4,4007340,FALSE
+d90cc238-b8fd-477b-8e0f-961b86621b99,3/27/1991,Flores-Krueger,lKYj,Harshad Mehta,Sell,1733,412.84,715451.72,TRUE
+6911bcec-8d91-490c-8a85-3caab202553c,11/24/1990,Bean Group,Jtnw,Nancy Young,Sell,7366,872.05,6423520.3,TRUE
+c4d333fd-2cc6-46a6-8e45-338f7b73ce88,12/10/1989,Simpson LLC,EIVa,Tara Rodriguez,Buy,8802,784.56,6905697.12,FALSE
+2f050c87-bd11-4a2b-be58-b18dcbf69d85,9/20/1990,Zavala Ltd,XVKO,Angela Brown,Buy,484,571.35,276533.4,FALSE
+3e8472da-f036-4444-a068-32b4255b2520,10/11/1990,"Ford, Barrett and Brown",wZne,Rebecca Gonzalez,Sell,504,741.06,373494.24,FALSE
+282aea91-22ce-4bae-aa39-baf5e7b71ea3,3/1/1990,"Porter, Rocha and Thomas",qJgH,Timothy Collins,Buy,8275,879.73,7279765.75,TRUE
+7d05c9ae-a566-43e8-9e49-47abf1138c59,1/14/1989,Wood Ltd,yrUN,William Jones,Sell,2100,410.1,861210,FALSE
+450dd349-2468-443d-8395-b2d6e3a7b70e,9/27/1988,Durham-Hayes,VitS,Harshad Mehta,Sell,9960,333.76,3324249.6,TRUE
+a7d2037a-c0f8-4237-8989-d2b0226e9b73,2/24/1990,Rodriguez-Thomas,jgQg,Harshad Mehta,Sell,6089,670.92,4085231.88,FALSE
+c0115a71-ade4-4c6c-bf13-67278b0647e7,1/1/1989,Watts-Johnson,TRUE,Harshad Mehta,Sell,1560,809.77,1263241.2,FALSE
+324a8a94-2b3f-4e9e-872d-dd1b14a10321,3/9/1990,Meyer PLC,afmx,Harshad Mehta,Buy,7290,764.66,5574371.4,FALSE
+21d48070-303f-405e-981d-c7a6d680ebfe,1/16/1990,"Garcia, Conway and Davis",zlqD,Alison Rhodes,Sell,7240,799.84,5790841.6,TRUE
+8597d4bf-d361-4231-8069-c7089e939085,11/24/1988,"Bowers, Page and Horn",QxwC,Harshad Mehta,Buy,3736,441.23,1648435.28,FALSE
+b5817fad-d607-4f5b-9b05-d53ba28e342e,7/23/1988,Pittman-Torres,dmlZ,Harshad Mehta,Buy,4909,819.66,4023710.94,TRUE
+0be590a9-816c-494b-ba7a-42ef94678712,6/6/1989,Davidson PLC,UYcJ,Harshad Mehta,Sell,4278,129.01,551904.78,FALSE
+48048643-1d80-419d-a460-f802c8302e08,12/4/1988,Ramirez-Herring,uFsL,Harshad Mehta,Sell,7345,549.04,4032698.8,TRUE
+54827585-641c-476d-b490-5b6107a83f08,4/26/1989,Anderson-Obrien,KIZu,Harshad Mehta,Buy,6700,15.7,105190,FALSE
+69ac04e5-65e8-41c9-8b07-ee14d07a4f41,9/22/1989,"Pace, Goodwin and Williams",sEnv,Harshad Mehta,Sell,6097,331.34,1989179.98,TRUE
+ebe17d8c-ffde-4979-a01a-442bcc681e8e,5/9/1989,Mcgee-Webster,QZXv,Harshad Mehta,Sell,2148,372.8,800774.4,TRUE
+213f079c-bf18-48b4-bb53-fbf56069339a,6/19/1991,Mcgee-Smith,IpkV,Eric Sanchez,Sell,4880,402.21,1962784.8,TRUE
+264dc20b-6e49-4e10-a430-7b689d8790e0,5/19/1989,"Frye, Vazquez and Jackson",vQsy,Tracy Williams,Buy,816,698.51,569984.16,TRUE
+e9ca0543-7519-48f1-8116-9a3f41345c30,8/8/1990,"Johnson, Kline and Patel",hPOm,Mary Hansen,Buy,8039,394.67,3172752.13,TRUE
+02201eae-66a3-4501-9421-f721a1a060b3,1/13/1990,Leonard-Lee,wiss,Sherry Pruitt,Buy,5665,454.21,2573099.65,TRUE
+ab368cf1-ee0d-4c7c-8741-2b9cf2b38597,6/17/1990,Santiago and Sons,dSMf,Harshad Mehta,Sell,4644,245.17,1138569.48,TRUE
+a9711be2-9af8-4252-a80e-8855712a57df,1/24/1991,"Morgan, Sanchez and Wright",CGxN,Harshad Mehta,Sell,5076,379.52,1926443.52,TRUE
+569ea699-51e8-48b7-ac05-fe082dbabf73,6/1/1991,Lee-Nash,GpYg,Robert Campbell,Sell,3519,235,826965,FALSE
+8bb267b1-e594-402e-a5e1-c286b896b85c,1/10/1991,"Hill, Richardson and Robinson",idAQ,Robin Edwards,Sell,7339,82.46,605173.94,FALSE
+96b1c078-d82a-4fe3-8947-fc75eb849548,5/30/1989,Hines-Snow,NEAs,Kelly Lee,Buy,9866,607.41,5992707.06,FALSE
+39214033-7d5e-4649-96de-36f8e24db383,10/1/1990,Williams-Williams,vxbO,Harshad Mehta,Buy,349,671.53,234363.97,TRUE
+efeaa99a-dd02-4bb6-be82-61865eb4a93f,2/3/1989,Lewis and Sons,tcCW,Harshad Mehta,Sell,8965,623.3,5587884.5,TRUE
+b3b4ffc2-1d90-4668-abc6-a5764abfa1fc,12/10/1988,Castillo Group,CApz,Alexis Holmes,Buy,870,468.86,407908.2,TRUE
+c35f3837-a18f-4983-9877-a1da021484d1,9/8/1989,Ellis-Roberts,fHlm,Harshad Mehta,Buy,4463,385.99,1722673.37,FALSE
+dbd77e06-0444-4c1f-90a9-ac36df81d14a,8/31/1989,Campos-Smith,vfSY,Eric Frost,Buy,1177,864.7,1017751.9,TRUE
+8fed3556-bd7e-43d7-8345-5650cca544fb,2/5/1990,"Jones, Hall and Fuentes",IaCa,Harshad Mehta,Buy,8527,523.89,4467210.03,FALSE
+36fe5b89-7c36-42ac-aaab-30051ed3c0a5,3/22/1991,Harris-Perez,puQl,Harshad Mehta,Sell,8680,484.39,4204505.2,TRUE
+d1321893-01db-4fe6-94d2-da3e59f4ca8c,7/19/1990,Barnes PLC,BeAM,Harshad Mehta,Sell,8001,35.39,283155.39,FALSE
+8745b953-944b-4699-a4f6-3bffa3794fc2,3/25/1991,Martinez-Austin,kdof,Samuel Larsen,Sell,4958,347.84,1724590.72,FALSE
+325574ee-dac0-4c52-ac1a-46b8d28854f0,3/1/1991,Swanson-Larson,HOAX,Harshad Mehta,Buy,6644,386.39,2567175.16,FALSE
+6c7f44db-6445-48df-96d2-92864fc0bb19,4/2/1989,"King, Warner and Wood",OvVz,Harshad Mehta,Buy,4819,404.83,1950875.77,TRUE
+3631d598-af65-4d37-9c0b-9492adf7807f,1/1/1991,"Lee, Madden and Mills",CzPI,Harshad Mehta,Sell,2914,584.37,1702854.18,FALSE
+3c93eea2-1070-4fec-adc4-908ee99dd780,10/29/1990,"Hill, Hoffman and Hale",PUkj,Harshad Mehta,Sell,3474,538.27,1869949.98,TRUE
+fc50cfbd-b4ff-4647-b327-08692a38d563,6/21/1991,"Hoover, Patton and Everett",qezo,Lauren Hurley,Buy,1352,611.83,827194.16,TRUE
+7aa4e151-165d-41ff-b280-397157b33c2a,11/27/1988,"Williams, Estrada and Carter",HIRw,Rita Berger,Sell,7096,767.23,5444264.08,TRUE
+524da6b8-331d-4513-b83e-c4ca43896ab5,4/30/1991,Abbott Ltd,slWr,Nicole Irwin,Sell,4773,814.86,3889326.78,TRUE
+0841dafa-d308-4a53-94c9-d3f2f588e6c1,12/25/1989,"Evans, Ruiz and Woods",xrmH,Harshad Mehta,Sell,4630,720.94,3337952.2,TRUE
+e12758b8-ec97-405e-bd47-99fa17fba5cd,7/23/1989,Perez and Sons,Kbzi,Micheal Fisher,Sell,6981,955.97,6673626.57,FALSE
+96fc7172-f269-4241-87d1-6bdb53abb680,7/3/1989,Goodwin-Mitchell,ctIh,Bradley Adams,Sell,7049,28.05,197724.45,TRUE
+9f00083e-9845-4738-864f-da7277619e45,3/16/1990,"Wood, King and Russell",MSQY,Timothy Zhang,Sell,9621,203.82,1960952.22,FALSE
+87d0b6df-01e9-40db-be48-5fe34351a501,8/31/1989,Sanford and Sons,Maik,Sheila Colon,Buy,6341,17.49,110904.09,FALSE
+21a258bf-2b93-48b1-88b0-2703c68260da,9/18/1988,Cook-Mcintyre,ywhB,Nathan Mcgee,Sell,8117,651,5284167,FALSE
+48a80d32-7efb-4d88-8d32-e0835068bacd,12/30/1988,Reeves PLC,Mduc,Laura Lopez MD,Sell,7041,899.05,6330211.05,FALSE
+6da8dd9a-5ffe-45dc-b667-1884e912dd45,10/23/1989,"Key, Hoover and Ferguson",QuzR,Harshad Mehta,Buy,9650,251.05,2422632.5,TRUE
+cc76e25c-cd20-426e-8fed-7752ec8821c8,10/14/1988,Shaw Group,OXQC,Harshad Mehta,Sell,7102,927.76,6588951.52,FALSE
+ad623e87-ba6b-459b-8f61-132c787d15c6,12/1/1989,"Dickson, Leonard and Fox",LDqX,David English,Sell,1431,69.66,99683.46,TRUE
+7464db4c-cf9f-4575-9127-8b978eb2c7e6,3/26/1990,"Gray, Johnson and Jones",ghEf,Andrew Sanchez,Buy,4361,935.09,4077927.49,FALSE
+b1259ffc-c535-492b-9d7e-2b48ad899d7c,12/23/1988,Swanson-Zamora,Erqp,Samuel Harris,Sell,7748,358.11,2774636.28,TRUE
+b28c0cd0-985f-4cd0-a09d-7da9a5367952,8/16/1990,Benson Ltd,zqlG,Harshad Mehta,Sell,9650,110.41,1065456.5,FALSE
+b5ae88c6-2cef-44f5-883a-0690f98022b9,5/5/1989,Henderson-Hall,nfss,Harshad Mehta,Buy,5215,491.01,2560617.15,FALSE
+39b6233a-b301-4327-a34d-c2044235f090,6/24/1989,Williams LLC,melr,Harshad Mehta,Buy,4737,264.21,1251562.77,TRUE
+49c346e9-3e07-46a6-b01c-dd1a48a1c6af,5/2/1989,Arnold Group,dbkQ,Harshad Mehta,Sell,4954,292.02,1446667.08,FALSE
+2aec0f7b-f332-4ee6-891b-521b88e566bf,6/13/1991,Castro PLC,NKIZ,Jessica Flores,Buy,3277,314.22,1029698.94,FALSE
+b442c3f2-0320-47f1-8948-953d61889182,12/30/1989,Andrade and Sons,cSBi,Harshad Mehta,Sell,7830,805,6303150,FALSE
+ffc6a94c-588f-47f1-b524-5b7160ccb173,4/28/1989,Bates-Evans,MTNa,Harshad Mehta,Buy,2280,543.77,1239795.6,TRUE
+95f87011-5d5f-4c3d-bf36-604057e89610,9/16/1988,"Allison, Yu and Hardin",yJlw,Christine Brown,Buy,4992,318.19,1588404.48,TRUE
+c518b467-0106-4a68-8797-a7191bc03484,9/15/1990,Sullivan LLC,fpSQ,Christopher Bell,Buy,7143,614.23,4387444.89,TRUE
+29d68285-afda-416b-b469-1a8c7b9e3c67,1/28/1989,"Burke, Hester and Valdez",jQVi,Nicholas Allen,Buy,237,718.99,170400.63,TRUE
+05d8a3d0-a23e-4148-88bb-1a3e53bb182d,6/6/1989,"Jones, Navarro and Ross",dJhv,Harshad Mehta,Buy,6427,279.9,1798917.3,FALSE
+26ce493f-ff31-4c5b-94b7-a0d68cc96904,7/6/1989,Beltran LLC,zNqp,Alicia Perkins,Buy,3572,419.41,1498132.52,TRUE
+baa67233-c945-4892-843a-6270fff29c31,9/19/1989,"Wilson, Johnson and Wang",jRir,Madison Smith,Sell,5549,130.67,725087.83,TRUE
+94a29d1d-2f52-4e34-a727-67abacb02f66,10/27/1989,Conley Group,tcfX,Harshad Mehta,Sell,2932,189.34,555144.88,FALSE
+8c9871e2-3935-4f79-860e-6201c058b521,10/10/1990,West-Hurst,MSBl,John Walker,Sell,3679,684.31,2517576.49,TRUE
+00f00086-7afe-4437-b419-442d7591ed6c,7/6/1989,Gonzalez-Hughes,Bnij,Samuel Robinson,Buy,6071,189.62,1151183.02,FALSE
+0c70fb84-2398-4329-a8d1-c951dbc842b4,3/28/1989,Mcdonald Group,yZMH,Casey Weber,Sell,4264,529.91,2259536.24,TRUE
+57fdaa57-301b-4dff-8a9b-6f654b37d655,10/26/1988,Thomas-Moreno,ykwU,Yolanda Garner,Buy,8041,711.96,5724870.36,FALSE
+b235751b-0e0e-4c44-b760-61451226b595,3/1/1990,Mullen-Salazar,Qhak,John Barker,Sell,5669,115.81,656526.89,FALSE
+33aaf0b4-1b95-486a-9759-641a34fd046b,10/25/1990,Green Ltd,bhcx,Harshad Mehta,Sell,4400,571.64,2515216,TRUE
+241cb09b-4f1b-4ee3-b26b-8486962b549c,7/24/1990,Barrera PLC,pzLk,Harshad Mehta,Buy,6369,264,1681416,TRUE
+936a559b-8af9-4a7f-930b-71d6cb37876c,1/1/1989,"Palmer, Huerta and Kirk",yAVq,Tristan Mcclain,Buy,3918,963.3,3774209.4,TRUE
+225c9905-6f09-4aea-bbcf-a3c96f709d7c,4/3/1989,Peters-Johnson,xIDn,Robert Delacruz,Buy,2006,488.71,980352.26,FALSE
+41e998d6-c5df-44df-b184-9eea5a929f32,11/1/1989,Walker-Young,bmnv,Victoria Vazquez,Sell,6354,807.93,5133587.22,FALSE
+f69a813a-9b0f-43a4-a0fe-6dc7a8450fa6,5/4/1991,Krause-Tran,NJRv,Jenna Nguyen,Sell,860,554.72,477059.2,TRUE
+5ba56b58-4d1d-4871-b4dd-8d8481db1f51,3/8/1990,"Martinez, Scott and Smith",yQJM,Stacy Brennan,Sell,7930,52.98,420131.4,TRUE
+bab28a5f-e73c-46c8-9fb3-5bea67c2bd43,12/18/1988,Dunn LLC,kXIM,Harshad Mehta,Sell,7450,636.82,4744309,FALSE
+806cde9f-7e60-4691-ba39-6eebeaedc65e,10/6/1988,Arnold-Watkins,eRRh,Melissa Marks,Buy,6338,951.89,6033078.82,TRUE
+e1eeca5a-c8bd-4230-9ce5-8ad4754b9a9b,1/9/1991,"Willis, Mcknight and Davis",SPRf,Harshad Mehta,Sell,6190,605.6,3748664,TRUE
+b51609f4-5880-48dd-b7eb-cefdf7ab21b0,10/19/1988,Foster Ltd,AZsq,Christopher Johnson,Sell,6131,821,5033551,TRUE
+51905d1c-00dc-4386-87a2-6e680ba658c8,9/9/1990,Johnson-Myers,ubnK,George Ellis,Sell,7787,885.36,6894298.32,FALSE
+a15c4318-eb23-4121-801f-6f8b7cbafe1b,12/29/1989,Lewis-Olson,aTst,Kristy Friedman,Sell,9191,235.8,2167237.8,FALSE
+a4e082e4-aec5-4915-a7fe-9f4ddca1b4d0,1/15/1991,"Bolton, Stewart and Figueroa",pdMr,Harshad Mehta,Sell,8572,219.92,1885154.24,FALSE
+d73ddeb1-30b3-47bf-a10e-256096ffba0c,5/6/1991,"Perez, Spencer and Yang",tieg,Abigail Walsh,Buy,1987,614.87,1221746.69,TRUE
+08574baa-2a53-4e0d-bd60-4c0a19fda26c,9/11/1989,Nelson-Mercer,RPGM,Harshad Mehta,Buy,3366,416.92,1403352.72,TRUE
+cb3f2312-80af-403b-ac2b-3d145a6e1eb3,8/5/1988,Jenkins and Sons,qviu,Sarah Black,Sell,766,841.46,644558.36,TRUE
+14b4ab45-e4d4-48ea-974c-b25cfb3500c4,2/4/1991,Parks-Gregory,Uqcx,John Roberts,Sell,4288,901.02,3863573.76,FALSE
+e0d06513-9eae-4c66-b9b3-a8b0177009b7,4/19/1989,Robles-Nash,ApjC,Harshad Mehta,Buy,771,359.89,277475.19,TRUE
+f3e858e8-f54e-4399-a03e-c7c4da8df337,6/10/1991,"Cook, Wilson and Carter",lmOD,Harshad Mehta,Sell,6877,244.5,1681426.5,TRUE
+085102a7-7866-4639-95f0-89c15387d7f7,2/1/1989,"Hill, Murray and Pena",xsuq,Holly Daniel,Sell,7670,782.72,6003462.4,FALSE
+4bc22b59-15b0-4b7d-bfea-60a7b0807c4b,11/2/1990,"King, Welch and Carroll",ymRK,Timothy Gomez,Buy,8056,282.06,2272275.36,TRUE
+11115d21-cda9-4015-8104-e7d3d2abf96f,7/4/1990,Rodgers LLC,Csfs,Melissa Sanchez,Sell,5224,824.39,4306613.36,TRUE
+cf65ffb5-31c3-4408-9cf6-077b0fd9a8f6,4/11/1991,Barry-Singh,USTg,Harshad Mehta,Sell,5685,429.5,2441707.5,FALSE
+10639cbe-dd12-4b49-a65d-9c25487c5f9d,2/10/1989,Smith Group,hQcJ,Harshad Mehta,Sell,4877,670.87,3271832.99,FALSE
+7b5984c9-2635-4215-8579-6840920c12b6,3/1/1990,"Hunt, Ramirez and Santana",FaLk,Carlos Booker,Sell,4000,104.58,418320,FALSE
+39671f95-050d-45a1-be51-a7b1e51bb135,2/29/1989,Howard Ltd,VbTc,Harshad Mehta,Sell,6777,627.62,4253380.74,FALSE
+4ea7e9fd-2ec1-4788-aee2-c68b65b3f1d5,11/30/1988,"Anderson, Fitzpatrick and Perkins",GxRv,Michelle Leon,Sell,7081,457.25,3237787.25,FALSE
+7276bfac-437a-445a-97b5-39cb7aa884fe,10/27/1989,Mayer Inc,dmYx,Megan Cantu,Buy,6476,590.74,3825632.24,FALSE
+a75e2aad-a248-452c-ab1b-a9be8c4516a1,3/20/1990,Stokes Group,LWig,Mitchell Hammond,Sell,623,176.33,109853.59,FALSE
+ec229428-a645-482b-8cc0-d4f93ee53750,9/27/1988,Davis Inc,oQwL,Harshad Mehta,Sell,2493,739.51,1843598.43,FALSE
+f3c5f678-faf2-49b2-a77b-1a577731b5c2,12/10/1990,Sanchez-Martin,JvxQ,Harshad Mehta,Sell,2693,864.17,2327209.81,TRUE
+87c9491a-c419-4612-acf4-a6d5447d61ee,7/29/1989,"Lopez, Anderson and Robinson",EusD,Harshad Mehta,Buy,7340,224.57,1648343.8,TRUE
+bc1bf730-3048-4d90-a12d-a20c634df536,10/3/1990,"Martin, Logan and Mendoza",VWqH,Harshad Mehta,Sell,7037,104.76,737196.12,TRUE
+bf5f6280-2926-46d6-8191-d6bda8ac71f6,9/8/1990,Yoder Group,NDlZ,Joshua Cohen,Buy,6290,33.4,210086,TRUE
+20597fe1-0768-4320-9d14-296f0d98f744,11/20/1989,Short-Morales,ojTl,Harshad Mehta,Sell,5340,645.55,3447237,TRUE
+f1449b6b-df54-4bb8-ab90-c11e8930573a,10/22/1990,Cox Group,jNlo,Heather Morton,Buy,6593,611.02,4028454.86,TRUE
+d4a6dca2-047b-4ff7-947d-eaf1315a84ec,2/17/1990,Ramirez-Murphy,duNv,Harshad Mehta,Sell,2978,551.23,1641562.94,TRUE
+8b536774-43d3-4292-bc42-768d2df46e31,2/4/1990,Mendez-Pratt,Owbs,Harshad Mehta,Sell,4243,239.63,1016750.09,TRUE
+d129444e-1ab0-44e3-a8e9-dd775bbcf2fb,7/2/1991,Barrera-Andrade,gRGA,Harshad Mehta,Sell,3744,397,1486368,FALSE
+df62b1a8-a670-45b2-9b62-812961099e80,6/11/1990,Lynn-Smith,TppR,John Williams DDS,Sell,4532,598.53,2712537.96,FALSE
+08da421a-9621-4ad5-bc1d-382e80a1864d,9/16/1988,Henson-Burch,qiQv,Harshad Mehta,Buy,1376,501.8,690476.8,FALSE
+65bc304b-db87-40ab-b85a-fbbf1fff9927,2/5/1991,"Pena, Garner and Brown",tacn,Harshad Mehta,Buy,5911,987.91,5839536.01,FALSE
+6c7027dc-4f7f-419c-bd48-c99e92cef979,5/25/1991,Brown Ltd,lnKg,Patricia Bradley,Sell,402,145.08,58322.16,TRUE
+4e4d484c-681e-4105-9470-5756f9e84b28,6/29/1991,"Leonard, Jackson and Ward",rSYO,Melissa Walker,Sell,738,698.19,515264.22,FALSE
+60399d8d-fd01-4455-8cc5-410aa298aa95,5/15/1991,"Barnes, Ware and Brooks",hhxf,Erin Dixon,Buy,155,410.28,63593.4,TRUE
+27ca802a-27b6-45c6-8044-9460530a0eca,1/23/1991,Adams-Ford,eCkA,Rachel Gonzalez,Buy,8817,433.92,3825872.64,FALSE
+354fcd4e-c253-42fb-b70b-17addea23ef8,10/15/1988,Khan-Brown,MbiD,Lisa Tate,Buy,8250,720.42,5943465,FALSE
+4d032edd-488f-4f35-a653-41d665ce9495,4/22/1991,Mitchell-Burns,fjqo,Jason Grant,Buy,2225,695.51,1547509.75,FALSE
+377d8b12-de4a-40c8-b167-6d764bd86894,1/18/1990,Tucker Group,RrtF,Harshad Mehta,Buy,464,991.34,459981.76,FALSE
+810a7758-0525-48cf-9588-16e54f3f93b7,3/2/1990,"Zimmerman, Rodriguez and Chapman",RIrd,Stephanie Stokes,Buy,6909,137.11,947292.99,TRUE
+e1e86dac-fa4c-42c0-9a43-0aab957ab3da,7/17/1988,Hughes Ltd,dTXR,Harshad Mehta,Buy,4721,113.07,533803.47,TRUE
+c38f6921-4303-4066-a4c6-f33cefd7b9ca,4/7/1990,"Rivers, Cox and Rivera",NicH,Jessica Velasquez,Buy,5226,727.1,3799824.6,TRUE
+55f07330-4368-41bb-b47f-693643ebb87d,4/30/1989,Lee-May,QAoy,Harshad Mehta,Buy,5222,582.6,3042337.2,FALSE
+dc23c91d-1df6-4294-9273-8adf1d7f408a,1/30/1991,Garcia and Sons,BoGf,Harshad Mehta,Sell,1746,281.42,491359.32,TRUE
+7ef5acba-12fe-44f3-9d9a-aed732594000,2/27/1990,Giles-Smith,JHcw,Harshad Mehta,Sell,1018,88.63,90225.34,TRUE
+a7747673-cea4-46e6-931e-c1aee24ec5dd,4/26/1989,"Murphy, Brown and Hudson",nvso,John Webb,Sell,2897,94.8,274635.6,FALSE
+9ac8fa5c-43a2-4986-a73e-04e26e4fb4b5,9/27/1990,James-Snow,uUWh,Stephanie Richardson,Buy,6606,895.25,5914021.5,TRUE
+8465844e-5dbb-489d-8c12-802f74d608a5,2/23/1991,Williams-Lee,SRcS,Andrea Cooper,Buy,5970,199.95,1193701.5,TRUE
+edf7ffdf-03a4-4086-8346-3cdf52b1370c,7/14/1990,"Coffey, Velasquez and Mcknight",VIBA,Steven Maynard,Buy,1631,330.14,538458.34,TRUE
+5feb037c-e2ce-4768-93c6-f51241b9e7df,10/1/1988,Gibbs LLC,CyhU,Harshad Mehta,Buy,8272,234.39,1938874.08,FALSE
+d5e0379e-1d60-413c-aeb1-3ee5880f063e,12/9/1989,"Ross, Turner and Arroyo",WwCK,Christopher Petersen,Sell,3445,361.45,1245195.25,FALSE
+253d219b-b3f1-4bfc-8b3d-040c4efb2700,7/28/1989,"Stephens, Sanchez and Acosta",ToTS,Michael Reynolds,Sell,7773,78.73,611968.29,TRUE
+3777efa1-8b2a-4a96-8ebf-d74f161b75ca,3/14/1989,Elliott PLC,PwBs,Susan Bryant,Sell,7049,523.87,3692759.63,FALSE
+776f9adf-306c-47de-a4a6-0f0e0d36f359,5/1/1990,"Yang, Leonard and Walker",izfS,Harshad Mehta,Buy,6982,76.94,537195.08,FALSE
+73228e6c-ebff-455e-a3f6-f9410ca109bf,11/10/1989,"Coleman, Carter and Morse",ZFMR,Charles Baker,Sell,2006,802.35,1609514.1,TRUE
+e5e12ae7-0b4e-4685-aa6e-fbfbe25ac240,9/2/1989,Marshall-Mitchell,pGbr,Debbie Johnson,Sell,3186,241.37,769004.82,TRUE
+f962aa52-32ab-4e9e-a0b2-1b60ee528345,7/19/1988,Pennington-Norris,rtbG,Rebecca Sellers,Sell,8252,544.61,4494121.72,FALSE
+82d4832c-c285-429a-850a-cf4e4066a012,2/19/1991,"Curtis, Dixon and Hale",bjCH,Aimee Rodriguez,Buy,5850,881.28,5155488,FALSE
+bd787a65-856b-4c57-81b2-d0629edd8e37,7/23/1988,"Williams, Hernandez and White",JDgQ,Robert Wade,Buy,9005,654.37,5892601.85,TRUE
+8743deeb-ccaf-4097-9b42-c1384b055323,11/14/1989,Powell-Smith,fHLH,James Lopez,Buy,1162,537.63,624726.06,TRUE
+74cf19a0-3c25-462d-b04b-d71a7cd1ebcb,1/29/1989,Morrison and Sons,zhBk,Alexander Curry,Buy,2076,331.09,687342.84,FALSE
+61145617-1dd8-4f68-9f33-435afe1b8393,8/28/1989,Aguirre Group,qAyn,Harshad Mehta,Buy,1396,339.67,474179.32,TRUE
+1771dd1f-b219-4d62-a70f-9d3b9c321625,10/10/1990,"Pacheco, Huerta and White",MFmi,Harshad Mehta,Sell,6329,672.79,4258087.91,TRUE
+b58c189a-9b2c-40a2-b1c5-1f065afbc4c9,10/6/1989,"Norman, Reyes and Little",Cqkg,Michelle Hall,Buy,7741,994.2,7696102.2,TRUE
+4fec7bf5-3f76-46e8-8764-ef19e28953af,7/14/1988,Robinson-Hayden,fAVI,Harshad Mehta,Buy,225,665.22,149674.5,TRUE
+81441912-dd76-4db7-bef1-0019481ea700,6/16/1991,Robinson Ltd,VRDr,Ryan Herrera,Sell,4732,562.21,2660377.72,TRUE
+9c220ce8-87c5-4754-83bc-36c5481aa853,3/20/1989,Hendrix Group,tTgE,Harshad Mehta,Sell,6388,733.34,4684575.92,TRUE
+8d234581-ea0a-4674-9182-0ac2715d2b58,7/28/1988,"Blanchard, Barker and Moran",fbLQ,Martin Cooper,Buy,3696,470.55,1739152.8,TRUE
+30f0b510-e681-4737-a5b0-34d08616e630,6/8/1989,Wilson-Jackson,GibZ,David Schmidt,Sell,6268,69.54,435876.72,TRUE
+ee409e1b-c4e8-4173-a7ac-dfd1d1d30e4a,10/28/1990,Davis-Ramirez,JAFi,David Thomas,Buy,9895,566.67,5607199.65,FALSE
+21aa6f81-1216-4f97-b167-8df62551e763,6/16/1989,"Williams, Turner and Crawford",IEdw,Henry Shepherd,Buy,7661,958.05,7339621.05,FALSE
+aa888ab2-6a56-4e97-9e48-9c77e169c681,8/30/1989,"Henderson, Garcia and Cordova",osaT,Harshad Mehta,Sell,8358,183.55,1534110.9,TRUE
+f5e6de7c-2c39-4eaf-a399-f70fdfa9c709,4/19/1989,"Williams, Turner and Schmidt",ZFGF,Javier Rose,Buy,332,693.1,230109.2,FALSE
+bfca3e1d-b064-446e-b3bf-c6e99d2f44fc,10/20/1989,Smith PLC,MSvd,Harshad Mehta,Sell,9461,208.92,1976592.12,TRUE
+df57c042-5a7a-47d2-a4cb-11d2596dd3e3,3/15/1989,Zimmerman Ltd,OVvL,Harshad Mehta,Sell,6471,540.47,3497381.37,TRUE
+f1462cbf-7a97-4952-85b2-f01c8de481b5,10/20/1990,Mendoza LLC,Qglv,Juan Wilson,Sell,4306,105.71,455187.26,TRUE
+c6b6d2d9-9ef1-4a2b-a468-41b884e07aad,12/3/1989,Collins and Sons,gXkc,Harshad Mehta,Sell,9785,455.87,4460687.95,TRUE
+3fd24ef1-c333-4bc0-b71a-a0d25f5224cd,5/16/1989,Lane-Johnson,TGbT,Amy Snyder,Buy,8043,758.6,6101419.8,FALSE
+1d1f91b1-e644-40f7-a16d-e60bd0e39070,4/13/1991,"Johnson, Orozco and Ingram",CeOM,Harshad Mehta,Sell,6991,354.1,2475513.1,TRUE
+9d7b0a8e-491c-420b-85bf-26276dc1e0cf,10/7/1989,"Harrison, Hodges and Mccann",XXxS,Sara Jones,Sell,6838,668.26,4569561.88,TRUE
+00385bca-0a0c-481e-93a2-cb5684010db1,11/24/1988,Goodwin and Sons,mcLp,Harshad Mehta,Buy,2572,797.5,2051170,FALSE
+945636fa-5e17-4079-9be1-766af40a8bb8,1/9/1991,Gibbs Group,zTir,Harshad Mehta,Buy,2839,927.91,2634336.49,TRUE
+cb21603d-6dd4-476b-835b-02c69b47a76b,2/1/1989,Little Group,iSdm,Jonathan Watson,Sell,5501,242.3,1332892.3,TRUE
+bb37ba44-015f-41fa-ae96-6ca1272cae11,10/28/1989,Tran-Levine,SYJO,Harshad Mehta,Buy,1861,405.32,754300.52,FALSE
+c6380fd1-ad1a-4687-a97b-f0b05866b0b5,1/30/1991,Key and Sons,VEHW,Harshad Mehta,Sell,976,160.89,157028.64,TRUE
+75a7bc5a-3a43-4435-9765-01a8cf3205c5,1/31/1989,Cooper-Holt,XdMK,Adam Guerrero,Sell,3912,992.56,3882894.72,TRUE
+74c42672-bf92-4086-a7ab-bf38cbbc6235,8/29/1989,Gonzalez LLC,rIMU,David Brooks,Buy,9604,927.73,8909918.92,FALSE
+aa6b12c1-6d7f-45b4-b1a3-a3ac2b9633af,7/10/1989,"Zamora, Oconnell and Blackwell",Yndr,Matthew Fisher,Buy,1560,544.56,849513.6,FALSE
+735fe194-02ce-4264-a0b1-44a1fcd4d5ca,9/11/1990,"Barnett, Murphy and Lambert",BZcs,Craig Smith,Sell,1833,843.61,1546337.13,FALSE
+88abccf8-be96-4505-beb7-a2d70841660c,9/29/1989,"Alexander, Johnson and Williams",YeId,Harshad Mehta,Sell,1705,525.75,896403.75,TRUE
+9f05be8c-16f2-4ae6-bd4a-86119a7954e6,3/2/1989,"Herrera, Jennings and Wilkins",cgge,Carol Stafford,Buy,5722,627.35,3589696.7,FALSE
+b73bd222-d3dd-47e5-aff8-97f03537cb82,11/28/1988,Nguyen Inc,EYQA,Annette Turner,Buy,6867,98.23,674545.41,FALSE
+8d0d9a4e-5d0e-4d41-b4da-8a400bebba96,8/21/1988,"Armstrong, Oconnor and White",tkko,Katherine Cain,Sell,7086,757.72,5369203.92,TRUE
+c67309b9-2871-441f-8d38-271e2ca88563,11/18/1988,Edwards Group,IKRG,Samantha Davidson,Sell,3617,136.44,493503.48,FALSE
+2c27db6c-b6c6-4573-8ae2-7cd8f3b90007,11/19/1988,Moore-Benson,qsIe,Harshad Mehta,Sell,3835,827.81,3174651.35,TRUE
+e3571a98-b4d7-4fe7-b2bd-d4d381da36d4,8/9/1989,Burton Group,qDNl,Harshad Mehta,Buy,9452,784.21,7412352.92,TRUE
+652d4512-41c1-45cd-82ad-fd482fa05d59,9/14/1990,"Davidson, Mclean and Stevens",dhjl,Harshad Mehta,Sell,8534,711.66,6073306.44,FALSE
+6ed71802-f222-4bfd-9244-b93fd25bdebf,4/18/1989,Smith-Proctor,wgqj,Logan Brown,Buy,2690,45.8,123202,FALSE
+34efde75-4359-42e9-927b-4d373170b636,2/18/1990,"Tran, Porter and Mendoza",lXXU,Harshad Mehta,Buy,1163,310.1,360646.3,FALSE
+a14317a5-8232-42b9-aa06-e81b6472beef,3/7/1990,"Monroe, Parsons and Melendez",gIRI,Harshad Mehta,Buy,4424,270.48,1196603.52,TRUE
+bc7e34a3-0f0f-48c8-b637-19e2a7539194,5/11/1991,Flores-Brennan,RAMM,Amanda Larson,Sell,9211,366.54,3376199.94,TRUE
+7c51ecc6-ed7f-4161-8736-043864f7ffe6,11/29/1989,Humphrey-Robinson,eEQx,Harshad Mehta,Sell,5442,96.77,526622.34,TRUE
+53eea1fd-9261-438f-a5fd-eb37a1f2d952,3/17/1991,Moore-Jordan,jSlG,Harshad Mehta,Buy,105,937.59,98446.95,FALSE
+d91ba41e-e588-42d3-be28-4de9253b522a,10/16/1988,Davis Ltd,Hsnq,Caitlin Wilson,Buy,7589,558.26,4236635.14,FALSE
+a05d798f-2458-4f93-bb85-6acb7133ceb9,5/10/1989,Lopez-Proctor,DQFW,Harshad Mehta,Sell,8759,312.47,2736924.73,FALSE
+4387c497-a916-4801-8e58-9d78efd508fe,4/28/1989,Faulkner Group,LbAI,Willie Cook,Sell,8295,403.01,3342967.95,FALSE
+71171cd1-6484-442f-ada4-30fe244de911,12/11/1990,"Sanders, Long and Velasquez",kLcN,Harshad Mehta,Buy,6066,452.73,2746260.18,TRUE
+af11534e-f11b-4b14-99dd-98abda534882,11/3/1989,"Newton, Stark and Martinez",GOHI,Harshad Mehta,Sell,8937,604.59,5403220.83,TRUE
+fc02da4d-1536-4632-a5a2-af0fc02fc498,1/6/1990,"Irwin, Bridges and Rogers",sINS,Shannon Blanchard,Sell,217,520.52,112952.84,FALSE
+a334a2a3-c7c7-4fce-90e9-0e910cb9bf4f,7/11/1988,Horne-Hobbs,VMyf,Harshad Mehta,Sell,2651,920.2,2439450.2,FALSE
+0d31ea24-bf78-4cd0-a3dd-6f833b0b30da,10/30/1990,"Torres, Haley and Kerr",bAHn,Lisa Wagner,Sell,5660,501.99,2841263.4,TRUE
+7c7000a9-aa8d-4d5a-9036-7a10574a8b77,11/14/1988,Johnson-Munoz,rnPS,David Miller,Buy,4389,992.24,4354941.36,FALSE
+d8d1060e-bfbd-4f8c-a2d7-739ead02ac88,6/24/1991,Moore-Roach,PJCb,Dr. Jeanette Patel,Sell,946,852.91,806852.86,TRUE
+a76f6988-4a34-4752-850a-4a9c40a1920f,3/5/1991,Ferguson-Wilson,ITHF,Jordan Wagner,Sell,6416,216.43,1388614.88,TRUE
+8bdc77ae-6421-4b2d-82b8-ccd4136631b5,3/5/1990,Phillips and Sons,eaEW,Harshad Mehta,Buy,6569,931.29,6117644.01,TRUE
+27388199-4857-4b16-94fe-b94fa14efe81,2/1/1989,Vang and Sons,xSXE,Harshad Mehta,Buy,9433,125.2,1181011.6,FALSE
+daf39384-ae93-4af0-a3ed-80ea2876a46b,4/5/1991,"Rodriguez, Avila and Hernandez",vLKP,Jeffrey Smith,Buy,9015,819.28,7385809.2,FALSE
+c521d7be-cf30-4d20-9627-1479e7f66f45,4/6/1991,"Wiggins, Bowman and Chandler",lBRf,Harshad Mehta,Sell,324,386.82,125329.68,FALSE
+c4af743f-5384-49e6-a393-5da3c41b71e8,3/13/1990,"Mills, Diaz and Reynolds",nSrk,Harshad Mehta,Sell,4308,879.19,3787550.52,FALSE
+37889d3e-4f55-46bd-93d2-e433149107c2,4/8/1989,Barnes-Barnes,ZIxf,Harshad Mehta,Buy,6383,869.38,5549252.54,FALSE
+5437b889-c941-496c-9c13-c8bff4853671,3/24/1989,Walker-Black,jxCT,Harshad Mehta,Sell,2148,807.87,1735304.76,FALSE
+602898f8-4da3-4157-8151-c0b086ca08bc,10/14/1990,"Livingston, Stafford and Hess",BKEE,Kimberly Reese,Sell,6333,792.13,5016559.29,FALSE
+1d026cb9-48d7-4396-859f-429e95a85d92,8/17/1989,Sullivan-Wilson,kypD,Harshad Mehta,Buy,9865,311.63,3074229.95,FALSE
+e7fc6c55-dde1-46fe-93fd-42d36c31905c,1/19/1989,Matthews Inc,tnAb,Alison Anthony,Sell,1928,90.11,173732.08,TRUE
+dfb72ed7-f83c-4eac-ac86-9d57eace967e,8/8/1990,Holland Inc,BlbP,Harshad Mehta,Sell,2017,408.95,824852.15,TRUE
+6912f8fc-d367-496f-bcc7-895c2347cbef,9/30/1990,Smith and Sons,xyDQ,Harshad Mehta,Buy,4334,181.79,787877.86,FALSE
+3b282f98-cecd-4f88-961c-616dc31cf0f3,10/4/1988,Harrison-Cohen,WbmE,Alyssa Flynn,Buy,7088,698,4947424,TRUE
+64c9e7ee-87f4-4d80-871d-11fb161876af,5/25/1989,Russell PLC,aqus,Jennifer White,Buy,2126,352.64,749712.64,TRUE
+fda02408-548c-4658-b60a-e2fab5b97e20,5/8/1989,"Lewis, York and Scott",JNes,Sean Ramirez,Sell,3844,975.85,3751167.4,FALSE
+883cc27b-3e24-47c9-99c9-de80dd2d2825,7/17/1988,"Mcconnell, Suarez and Johnson",Grfa,Ashley Murphy,Buy,9193,644.56,5925440.08,TRUE
+50b3ed64-818c-436c-8435-18ef7428b72b,12/20/1988,"Blackwell, Juarez and Lee",iHkz,Harshad Mehta,Sell,109,824.26,89844.34,FALSE
+cba09484-2823-4727-9e79-5447fd1e3dd0,4/20/1990,Anderson PLC,kRWZ,Matthew Martin,Sell,360,141.2,50832,FALSE
+464c7373-32bf-4f16-959b-13b18534e721,3/14/1989,Hill-Choi,hglA,Sarah Wood,Sell,6138,863.39,5299487.82,TRUE
+fa28dce0-e703-49c3-91ac-f4c982dfc3da,5/26/1991,Richardson-Craig,gkyL,Harshad Mehta,Sell,9965,923.53,9202976.45,TRUE
+0c0b4343-03f1-4e60-9612-6bdcfcdba115,3/22/1991,"Valencia, Smith and Pennington",Nrrw,Harshad Mehta,Buy,2319,492.19,1141388.61,TRUE
+6561a10f-3ffd-4438-bf0e-8eab952c1550,10/9/1990,"Huang, Bishop and Harris",RkkK,Brianna Sullivan,Buy,7141,610.19,4357366.79,TRUE
+013a8464-53ce-41f0-8067-e03f5afb64b7,9/13/1990,Meyers-Vega,Pfdd,Jay Vega,Buy,2160,767.16,1657065.6,TRUE
+90e5476c-c5f6-4bff-8ff9-0d680335494e,5/19/1989,Fisher-Russell,krSr,Katherine Small,Sell,5387,183.09,986305.83,FALSE
+0057930a-08e3-4b1a-b0f7-166062211425,10/24/1988,Hale-Franklin,TfeN,Tyler Delacruz,Sell,1719,507.54,872461.26,TRUE
+757d95de-cac7-411e-8ed5-8d5b7c8d67cb,1/24/1990,Anderson Group,SfPs,Kevin Cox,Buy,8612,404.68,3485104.16,TRUE
+7d9e41cf-8bcd-4b51-b2c8-a885b4eece37,8/17/1990,"Davis, Harper and Roman",HhBj,John House,Buy,1442,154.91,223380.22,FALSE
+9810eee7-c334-424f-ab68-ff16033d2674,5/24/1990,"Wise, Dodson and Alvarado",hVGi,Robert Stevens,Buy,2932,373.86,1096157.52,FALSE
+d63c7650-d10e-4875-ab73-9117832ca448,11/30/1988,"Patton, Cooley and Casey",FRwk,Harshad Mehta,Buy,2924,77.49,226580.76,TRUE
+ce20174c-cabf-4b71-8a2b-5954d9839bda,12/31/1989,Estrada-Patterson,ezhM,Karen Brooks,Buy,2094,35.55,74441.7,TRUE
+5aa52dfc-9316-45d5-ba14-e304522cb041,9/29/1988,Allen Inc,UWKF,Brandon Hodge,Buy,3590,143.81,516277.9,TRUE
+bd81b677-82ea-431f-bee0-76a19c3c9a64,5/31/1990,Barton-Smith,aquC,Harshad Mehta,Sell,9410,963.48,9066346.8,FALSE
+0662e170-25b2-4e70-b8a0-bb5af32d50bf,1/4/1990,Watson-Griffin,yFgI,Harshad Mehta,Sell,8084,554.03,4478778.52,FALSE
+4097bdba-b230-4d21-9ea4-b4d30252765d,1/25/1990,"Jarvis, Evans and Rogers",CvbH,Connie Garcia,Buy,1704,966.16,1646336.64,TRUE
+9575bc7a-0541-42f5-9541-ded649f9346d,2/1/1990,Hughes-Jenkins,eLCz,Zachary Austin,Buy,335,438.17,146786.95,FALSE
+eb70bec7-9375-45cf-8b61-d20e3e58c165,4/2/1991,Carr-Boyle,ZpCw,Evelyn Cohen,Sell,2008,318.7,639949.6,TRUE
+b6103277-a7a1-4a83-aea8-bb932beb7056,1/22/1989,Moreno-Cruz,TcSt,Jennifer Duran,Buy,8667,511.08,4429530.36,TRUE
+c060ad6a-915c-43e3-82b0-ad3c43575f65,12/24/1989,Reynolds-Stephens,alMb,Harshad Mehta,Sell,3630,445.12,1615785.6,FALSE
+c8c583b2-6ac2-4644-a132-acdd1c2095be,3/18/1991,"May, Martinez and Benton",ViEs,Dennis Berger,Buy,5356,114.61,613851.16,FALSE
+39e1a2bc-878f-46b1-b67c-71afbd278e91,7/18/1988,Mccarthy Group,oupb,John Rivera,Sell,2735,644.42,1762488.7,TRUE
+3ef4fa33-9580-4787-ba8e-31509d352d55,10/25/1990,Dudley-Weber,WBJn,Harshad Mehta,Buy,8262,223.88,1849696.56,FALSE
+3523afeb-37c0-40a6-8da9-2e228167e1b3,2/6/1989,Gutierrez-Hernandez,mfIu,Harshad Mehta,Sell,9862,623.39,6147872.18,TRUE
+1d3c779c-0b0a-40c2-89ff-509b007d8545,2/22/1991,"Landry, Cooke and Pittman",gnen,Sandra Stone,Sell,2660,653.7,1738842,TRUE
+cd2cbd25-b504-47d3-a0b3-23da1193e6cd,4/16/1991,Saunders PLC,DcId,Jill Hall,Buy,5515,160.5,885157.5,TRUE
+0a4370a7-36a1-4bdd-b30c-16af911d566b,10/31/1990,Harris-Campos,IfkT,Harshad Mehta,Sell,3491,70.74,246953.34,TRUE
+b4b18081-b198-4416-8d41-d80795a08971,3/2/1989,"Miller, Bates and Taylor",XLqt,Kimberly Thompson,Sell,6051,782.95,4737630.45,TRUE
+0986dc80-accf-4074-879a-f112745bdf15,3/25/1990,Lewis-Larson,zudG,Harshad Mehta,Buy,5568,465.2,2590233.6,TRUE
+dd5dbb18-3f67-43ef-af83-e16d4c55c1b0,7/24/1989,"Lee, Perez and Henson",xIDc,Harshad Mehta,Sell,8107,67.58,547871.06,FALSE
+8f302872-3468-4311-83ae-e2c9f52844ea,1/2/1991,Glenn-Johnson,kwtC,Rhonda Hernandez,Sell,9164,994.92,9117446.88,TRUE
+ec8f17b6-9aab-4424-b8df-dad6be771f2d,12/21/1989,Murray-Hansen,EqIL,Harshad Mehta,Buy,9544,67.2,641356.8,FALSE
+1e11571c-602e-4341-acc9-96ccd88f5a93,5/12/1989,Carter-Zimmerman,vxbD,Harshad Mehta,Buy,6513,698.08,4546595.04,TRUE
+b72e5416-02d9-4c2b-adb7-7c026355e5ac,3/30/1989,Harris Inc,SwjA,Harshad Mehta,Buy,7041,983.84,6927217.44,TRUE
+875a7d25-aa7f-4465-9811-d373990cab4f,4/23/1991,Barnes and Sons,ltMG,Cody Sanchez,Buy,9606,246.79,2370664.74,FALSE
+eb8c31c6-b8ba-42b4-9056-ae2dfa84abd5,12/11/1990,Esparza LLC,ImCA,Blake Weeks,Sell,4920,150.83,742083.6,TRUE
+c5c925b2-d0f9-44bd-b0da-cbf3fd1395b3,7/19/1989,Torres and Sons,NqmR,Harshad Mehta,Sell,2998,130.17,390249.66,FALSE
+7a2d7fbf-6fac-4b4b-87bf-0ecab2a5c9db,8/17/1989,"Gonzalez, Roberson and Macdonald",lTKu,Joshua Brooks III,Buy,7646,310.24,2372095.04,TRUE
+ee1df612-3623-405d-a030-f41fc1e982ab,1/8/1990,Smith-Duncan,npMo,Harshad Mehta,Buy,177,110.04,19477.08,TRUE
+a596d2e2-fdde-43c8-8f68-86479e3ccbee,10/7/1990,Turner-Pratt,MUdP,Harshad Mehta,Buy,7677,695.24,5337357.48,TRUE
+e0921b31-6a4b-4fa6-8319-33d97afe65df,3/22/1991,Fisher LLC,VRRL,Caitlin Thompson,Sell,4327,71.67,310116.09,TRUE
+0ee8a3da-9a7c-4e7f-9587-37779ee3cd73,6/21/1990,"Hill, Coleman and Anderson",hSbk,Andrew Wright,Buy,700,514.33,360031,TRUE
+1a4bc248-16dd-4b35-80dc-a8cd2806964d,8/9/1989,Garrett-Vasquez,sgyl,Samantha Meza,Sell,1165,996.73,1161190.45,FALSE
+d9f53455-278b-462f-aad2-a3eee074b3b7,6/3/1991,Roberson-Miller,NwZW,Harshad Mehta,Sell,2236,815.83,1824195.88,TRUE
+79186467-df78-4206-b772-47fa3950ca5e,7/4/1991,"Schmidt, Clark and Vasquez",krxc,Harshad Mehta,Buy,9610,619.07,5949262.7,FALSE
+03778661-7966-4ae0-9b78-2b68b5ec317d,5/14/1990,Romero-Rodgers,SVts,Harshad Mehta,Buy,7043,313.19,2205797.17,FALSE
+d056e10a-d545-4171-abe7-b887b9b4126a,8/23/1990,Long-Miller,XDDC,Anthony Brandt,Sell,7904,627.66,4961024.64,TRUE
+b485d4e0-d4fd-48e4-b51c-ba22a2438c45,4/22/1990,Rodriguez-Beck,oELq,Daniel Washington,Sell,6665,531.77,3544247.05,FALSE
+980bedf4-7932-4894-8719-f5bd46a29558,3/26/1989,"Riley, Blevins and Garrett",sIfr,Harshad Mehta,Sell,6084,431.82,2627192.88,FALSE
+07a37f42-e5ee-4a15-a602-c31c1d00a84b,2/4/1989,"Rivera, Burke and Clark",NnSY,Rick Parks,Sell,5242,139.4,730734.8,FALSE
+0b687401-5004-47f5-87c0-fb725b2df398,9/27/1989,James Inc,EjUU,Mark Lopez,Sell,4770,887.74,4234519.8,TRUE
+a2fb2c9d-8c29-4888-895a-6b97b0821144,1/5/1990,Padilla PLC,zNpv,Carlos Potter,Sell,2290,455.29,1042614.1,TRUE
+a5f25c9a-9444-42cf-a17a-a18d3e40954a,7/30/1990,"Jackson, Adams and Lawrence",fUxy,Martha Rice,Buy,9284,202.68,1881681.12,FALSE
+65d33921-b022-4d19-87ef-c51769a82fe3,11/10/1990,"Hall, Barnett and Singh",YALH,Harshad Mehta,Buy,2812,374.08,1051912.96,FALSE
+4ed697b1-7757-41fe-9103-16eedb48e8bd,7/8/1989,Lawson-Robles,HuKe,Tommy Adams,Sell,2292,419.99,962617.08,FALSE
+b32ce570-74f9-4cad-a68f-f1097f1fc9f8,9/14/1989,Thomas PLC,INqL,Harshad Mehta,Buy,1348,829.26,1117842.48,TRUE
+e50b444e-8035-4d48-8e74-b753f1d415ca,3/8/1991,Wright-Warner,uHHu,Harshad Mehta,Buy,4133,736.28,3043045.24,FALSE
+af787023-1e15-4d4a-84f5-2acccc6cc120,11/28/1988,"Lewis, Rodriguez and Adkins",oVDw,Harshad Mehta,Sell,2097,771.61,1618066.17,TRUE
+6b4b5cbc-7874-4e76-ae8c-7b6a718a691d,7/11/1990,Arellano-Nunez,cuzB,Melanie Brewer,Buy,3787,20.92,79224.04,TRUE
+6f6cae21-c9ef-479f-83c0-c0b9c10c3863,3/27/1991,"Christensen, Thomas and Lee",tolh,Mark Chandler,Buy,4118,421.99,1737754.82,FALSE
+3e5097a7-7b6b-43c3-993d-d57fae500e0b,10/7/1989,Rios Inc,uHLM,Harshad Mehta,Buy,2070,486.53,1007117.1,FALSE
+a1834452-658b-438f-a3d1-53b5309440a2,4/24/1990,Johnson-Campbell,BGeV,Mario Bailey,Buy,8489,29,246181,FALSE
+0f12d355-fbc5-4acb-a7a8-b90c5783da21,5/8/1989,Taylor-Hall,lDsP,Harshad Mehta,Sell,5865,267.22,1567245.3,TRUE
+f2a92e00-770e-41d1-b22a-80ebe852604a,8/26/1989,Snyder Group,iowT,David Hunter,Sell,1302,762.69,993022.38,TRUE
+13f80b2d-3fec-4811-8538-e5418fbdea95,6/13/1990,Robertson-Donovan,MQWL,Harshad Mehta,Sell,8235,145.74,1200168.9,TRUE
+e903c978-34bb-4fe7-8a22-17b07f9f0adf,11/28/1989,Diaz-Stevenson,gveQ,Jose Escobar,Sell,5667,539.96,3059953.32,FALSE
+cab195cc-0d66-4cd5-8ca0-015a53df636f,2/28/1990,Sutton Group,zLol,Alejandra Rowe,Buy,7767,223.05,1732429.35,TRUE
+ab57d1ed-258a-40f7-97da-963dab2fbba8,9/2/1989,Hardy and Sons,GyTY,Mallory Patel,Buy,5842,22,128524,TRUE
+02f08b51-8e2b-4f0d-bdce-8ac205ff8770,5/26/1990,Torres-Webb,NOwW,Rebecca Lowe,Sell,5888,248.79,1464875.52,FALSE
+d7f01684-02eb-48f1-bcb2-0012b9a43c55,6/2/1991,"Mcdaniel, Cardenas and Collins",RGVe,Christina Salazar,Sell,5508,976.12,5376468.96,TRUE
+ecfa3982-9439-4ea7-bf4f-a40862e40676,2/10/1991,Vance-Potter,fToY,Harshad Mehta,Buy,8769,803.52,7046066.88,TRUE
+6fad41bb-7325-4b4a-9226-8de5a3c6419f,8/23/1989,Clark-Irwin,UTcr,Harshad Mehta,Sell,9546,959.98,9163969.08,FALSE
+8131b1c7-21ac-4f25-9b1c-5bd48cc4bfcc,5/9/1990,Cruz-Aguirre,PvEr,Jason Parker,Buy,1022,492.98,503825.56,TRUE
+0a55a671-be79-4d7a-85d8-81fefde51987,2/2/1989,"Kidd, Smith and Garcia",PCCT,Harshad Mehta,Buy,519,118.64,61574.16,FALSE
+4563dc2b-0bf9-4e16-bf53-49bd85bece14,11/10/1990,Diaz-Anderson,mnkw,Nicholas Smith,Buy,2304,552.48,1272913.92,TRUE
+d9c3d0e6-70b9-42b7-a0de-7d95de563c0d,4/14/1989,"Stevenson, Long and Ramirez",mUeS,Harshad Mehta,Sell,1220,459.83,560992.6,TRUE
+4306ff7d-e5f9-4d7b-a8f1-51efd2f0b615,8/30/1990,Smith-Poole,ArRz,Harshad Mehta,Buy,1050,845.91,888205.5,FALSE
+d687c1bb-7a4c-48db-92ff-54e946274a82,10/17/1990,Hayes-Stevens,lTQb,Travis Berry,Buy,2436,107.1,260895.6,FALSE
+c140a7ea-2e7e-4240-86e2-797abb0a5f2c,4/15/1989,Noble and Sons,eWGM,Kathryn Cooke,Buy,5473,493.36,2700159.28,TRUE
+f3c8b530-53f6-4835-a36d-a8de7e9ee5ad,3/30/1990,Garcia-Hughes,alZD,Natasha Thomas,Buy,2343,158.55,371482.65,TRUE
+fab6c332-e0ed-4554-a830-3b40be796a70,8/3/1990,Mendoza-Tran,uqqz,Harshad Mehta,Buy,2745,331.43,909775.35,FALSE
+0a7081bc-0cc5-4327-928b-f6362f56fa7e,8/30/1990,Watkins and Sons,JdQN,Harshad Mehta,Buy,4712,739.98,3486785.76,FALSE
+a568564e-32dc-4484-aba5-a2f4d5934f15,3/11/1991,Berry-Kelley,gbtx,Harshad Mehta,Sell,1965,481.26,945675.9,TRUE
+460a8f6d-599b-4245-9cdc-18d5492533d1,7/19/1988,"Charles, Jenkins and Davila",BAVc,Harshad Mehta,Buy,6128,382.13,2341692.64,FALSE
+00e93973-31a5-4204-b73e-bd643dde59a4,5/18/1991,Meyers Group,xHuX,Brandi Stewart,Buy,7426,400.53,2974335.78,TRUE
+11437368-5dcd-4f72-b86c-6cd374718f6a,2/25/1991,Wright Ltd,VkIn,Sarah Costa,Buy,6471,464.85,3008044.35,TRUE
+14b0a877-49bf-4281-aaed-d236b40fdcbb,12/9/1988,"Hendrix, Edwards and Lane",cojX,Harshad Mehta,Sell,6459,787.17,5084331.03,TRUE
+f538d938-65d2-4476-8959-ca604a193cdf,1/6/1989,Jensen and Sons,mMoa,Harshad Mehta,Sell,7963,893.16,7112233.08,FALSE
+abeea841-842a-4818-9728-7bd7bbf06034,2/27/1990,Meadows LLC,vNTw,Harshad Mehta,Buy,3328,955.78,3180835.84,FALSE
+40ef8528-d27e-4d2f-a1e0-538ed09a674a,5/26/1991,Perry Group,FHDg,Harshad Mehta,Buy,3819,789.03,3013305.57,TRUE
+9df35037-4e85-478c-a49d-dae1a6297d70,10/1/1990,Mason and Sons,pIPF,Sierra Gomez,Buy,2471,322.25,796279.75,TRUE
+98129dea-8073-4fcb-80ad-952a032afa6c,1/18/1991,Gonzalez-Hartman,lvRI,Mr. Ernest Martin,Buy,2991,691.25,2067528.75,TRUE
+cf3d09a7-4bd7-4c46-be32-34d4fcb1d6ca,7/6/1989,Williams and Sons,BQic,Jeffrey Friedman,Sell,3856,443.23,1709094.88,FALSE
+57fdff1f-6536-4ac1-a7bd-b1085578ad06,12/3/1988,"Graham, Morgan and Curry",hFSo,Jessica Ruiz,Buy,4325,262.12,1133669,FALSE
+670b40be-4b08-48c3-baf6-ba5de55a722d,5/2/1990,"Ayers, Vasquez and Jennings",jyEt,Harshad Mehta,Sell,194,842.46,163437.24,FALSE
+37b0013c-3375-4540-a677-fb80ae17fb24,10/29/1988,"Green, Mcmillan and Higgins",XBSt,Sharon Arnold,Sell,2774,48.04,133262.96,TRUE
+5f9c909c-f6cc-46f6-89fa-4c518a29d5ea,8/1/1988,"Morris, Williams and Sims",IOuU,Harshad Mehta,Buy,6998,902.74,6317374.52,FALSE
+44517503-ae01-4ceb-98b1-4faa7eaa1d7f,4/17/1990,"Velasquez, Duncan and Mack",Natt,Andrea Williams,Sell,893,466.86,416905.98,FALSE
+aeedd791-a609-42a0-ae67-4796fac74d9e,10/26/1990,"Pierce, Kim and Thompson",dlPw,Christopher Small,Buy,2216,640.83,1420079.28,FALSE
+573bf6ee-2e19-4eab-8c6b-9ba374b9a16c,11/3/1989,Pena and Sons,XGfM,Brian Phillips,Buy,5879,662.76,3896366.04,FALSE
+2b6db31d-0b1b-4c54-9d8c-53a5751b5584,8/7/1988,"Moore, Lawrence and Morris",HiLu,Harshad Mehta,Sell,6266,896.17,5615401.22,FALSE
+72a217c3-c278-4b7d-acf5-5f2a3bc7a214,6/13/1990,"Torres, Thompson and Harrison",mWON,Valerie Wilson,Sell,914,640.3,585234.2,TRUE
+35038158-2ab2-4fa2-b427-f48307f0ff62,4/26/1989,"Wilson, York and Powers",Myks,Harshad Mehta,Sell,445,617.79,274916.55,FALSE
+83facb7a-41c2-42ce-a9da-97704bb06336,1/3/1989,Martin-Gonzalez,rmhk,Shannon Edwards,Buy,8654,75.99,657617.46,TRUE
+9be4009d-1dba-424d-ac7b-db823a0abbb8,5/25/1990,Sanders-Price,menT,Emily Carrillo,Buy,2543,523.22,1330548.46,TRUE
+74771e4b-4056-4e9d-842b-1c65968d4d11,4/17/1991,Small-Wallace,piyt,Harshad Mehta,Sell,7883,158.67,1250795.61,FALSE
+c27827e9-680e-4093-9a7b-9e7f49bcb8b2,7/7/1988,Rosales Group,VDuc,Deborah White,Sell,1084,740.06,802225.04,TRUE
+162042ba-c473-4dc3-9c85-100acf1a83c6,8/6/1989,"Lopez, Taylor and Warren",JXyP,Harshad Mehta,Buy,7890,517.1,4079919,TRUE
+28de7ee0-43b8-4e22-8f81-4b8b17bb4591,2/1/1991,Robertson PLC,RTiC,Timothy Mays,Sell,9931,683.43,6787143.33,FALSE
+7c8de30e-8842-4ee6-86ce-ca7f77dc0a5c,6/24/1989,Frank-Hurst,lwzh,Angela Price,Sell,927,51.26,47518.02,TRUE
+57d652f6-9774-4da0-b09e-6f4eb471e350,7/20/1988,Farley and Sons,ztQJ,Harshad Mehta,Sell,3631,93.94,341096.14,FALSE
+942a9b8a-f3a2-4548-9412-b69a524198dc,10/19/1989,Hodges Group,lEmb,Haley Diaz,Sell,7247,719.16,5211752.52,FALSE
+04764ae5-d4fe-47ac-82ec-a0cae27baa7b,4/1/1991,"Russo, Harrell and Atkinson",zYMN,Timothy Hansen,Sell,4551,81.36,370269.36,TRUE
+fed3bdfa-e498-47c3-87cc-49e64a56e92f,6/7/1991,"Thompson, Curtis and Brown",YueD,Harshad Mehta,Buy,3976,80.54,319917.04,TRUE
+a7c8ae2a-cbc9-44e9-afaa-e208393dcc96,7/9/1988,Turner Ltd,jJYU,Harshad Mehta,Sell,6059,21.99,133237.41,FALSE
+1252c982-165d-450f-9249-64b9e11b1708,4/18/1989,"Carr, Williams and Lane",TOEI,Shannon Jackson,Sell,226,956.94,216268.44,TRUE
